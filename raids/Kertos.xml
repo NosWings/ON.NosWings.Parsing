@@ -10,6 +10,9 @@
     <RequieredItems>
       <Item VNum="5920" Amount="1" />
     </RequieredItems>
+    <GiftItems>
+      <Item Amount="1" VNum="302" Design="13" IsRandomRare="True"/>
+    </GiftItems>
   </Globals>
   <InstanceEvents>
     <CreateMap Map="0" VNum="2554">
