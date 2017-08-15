@@ -351,9 +351,9 @@
                    <RemoveMonsterLocker/>
                    <RefreshRaidGoals/>
                    <End Type="1"/>
-                   <ThowItem VNum="1046" PackAmount="30" MinAmount="20000" MaxAmount="20001"/></OnDeath>
+                   <ThrowItem VNum="1046" PackAmount="30" MinAmount="20000" MaxAmount="20001"/></OnDeath>
            </SummonMonster>
-           <OnMoveMap>
+           <OnMoveOnMap>
                <Wave Offset="1" Delay="30">
                    <SummonMonster VNum="2018" PositionX="43" PositionY="87"/>
                    <SummonMonster VNum="2018" PositionX="19" PositionY="58"/>
@@ -486,7 +486,7 @@
                    <SummonMonster VNum="845" PositionX="44" PositionY="53"/>
                    <SummonMonster VNum="845" PositionX="42" PositionY="51"/>
                </Wave>
-           </OnMoveMap>
+           </OnMoveOnMap>
        </CreateMap>
     </InstanceEvents>
 </Definition>
