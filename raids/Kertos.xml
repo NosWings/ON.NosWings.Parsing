@@ -105,20 +105,20 @@
           <RemoveButtonLocker />
         </OnFirstEnable>
       </SpawnButton>
-      <SpawnButton PositionX="51" PositionY="35" VNumDisabled="0" VNumEnabled="0" Id="1">
+      <SpawnButton PositionX="51" PositionY="35" VNumDisabled="1135" VNumEnabled="1136" Id="1">
         <OnFirstEnable>
           <RefreshRaidGoals />
           <RemoveButtonLocker />
         </OnFirstEnable>
       </SpawnButton>
-      <SpawnButton PositionX="162" PositionY="156" VNumDisabled="0" VNumEnabled="0" Id="2">
+      <SpawnButton PositionX="162" PositionY="156" VNumDisabled="1135" VNumEnabled="1136" Id="2">
         <OnFirstEnable>
           <RefreshRaidGoals />
           <RemoveButtonLocker />
         </OnFirstEnable>
       </SpawnButton>
       <SetMonsterLockers Value="3" />
-      <SetButtonLockers Value="1" />
+      <SetButtonLockers Value="3" />
       <OnLockerOpen>
         <ChangePortalType Type="2" IdOnMap="0" />
         <RefreshMapItems />
@@ -129,7 +129,7 @@
       <StartClock />
     </CreateMap>
     <CreateMap Map="1" VNum="2555">
-      <SummonMonster VNum="1046" PositionX="26" PositionY="19" IsTarget="true" IsHostile="true" Move="true">
+      <SummonMonster VNum="1046" PositionX="26" PositionY="19" IsHostile="true" Move="true" IsBoss="True">
         <OnDeath>
           <RemoveMonsterLocker />
           <RefreshRaidGoals />
