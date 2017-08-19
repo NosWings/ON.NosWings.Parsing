@@ -3,7 +3,7 @@
     <Globals>
         <Id Value="0" />
         <Label Value="Valakus" />
-        <LevelMinimum Value="40"/>
+        <LevelMinimum Value="90"/>
         <LevelMaximum Value="99"/>
         <StartX Value="178" />
         <StartY Value="178" />
@@ -229,30 +229,30 @@
             </SummonMonster>
             <OnMoveOnMap>
                 <Wave Offset="1" Delay="30">
-                    <SummonMonster VNum="1924" PositionX="32" PositionY="26" Move="false"/>
-                    <SummonMonster VNum="1923" PositionX="21" PositionY="26" Move="false"/>
-                    <SummonMonster VNum="2015" PositionX="28" PositionY="41" Move="false"/>
-                    <SummonMonster VNum="2015" PositionX="26" PositionY="39" Move="false"/>
-                    <SummonMonster VNum="2015" PositionX="28" PositionY="39" Move="false"/>
-                    <SummonMonster VNum="2015" PositionX="27" PositionY="41" Move="false"/>
-                    <SummonMonster VNum="2015" PositionX="28" PositionY="39" Move="false"/>
-                    <SummonMonster VNum="2015" PositionX="27" PositionY="40" Move="false"/>
-                    <SummonMonster VNum="2015" PositionX="27" PositionY="40" Move="false"/>
-                    <SummonMonster VNum="2015" PositionX="26" PositionY="39" Move="false"/>
-                    <SummonMonster VNum="2015" PositionX="26" PositionY="39" Move="false"/>
-                    <SummonMonster VNum="2015" PositionX="28" PositionY="40" Move="false"/>
-                    <SummonMonster VNum="2015" PositionX="28" PositionY="40" Move="false"/>
-                    <SummonMonster VNum="2015" PositionX="28" PositionY="39" Move="false"/>
-                    <SummonMonster VNum="2015" PositionX="28" PositionY="41" Move="false"/>
-                    <SummonMonster VNum="2015" PositionX="28" PositionY="41" Move="false"/>
-                    <SummonMonster VNum="2015" PositionX="26" PositionY="39" Move="false"/>
-                    <SummonMonster VNum="2015" PositionX="27" PositionY="41" Move="false"/>
-                    <SummonMonster VNum="2015" PositionX="27" PositionY="41" Move="false"/>
-                    <SummonMonster VNum="2015" PositionX="27" PositionY="41" Move="false"/>
-                    <SummonMonster VNum="2015" PositionX="27" PositionY="41" Move="false"/>
-                    <SummonMonster VNum="2015" PositionX="27" PositionY="39" Move="false"/>
-                    <SummonMonster VNum="2371" PositionX="27" PositionY="27" Move="false"/>
-                    <SummonMonster VNum="2371" PositionX="29" PositionY="32" Move="false"/>
+                    <SummonMonster VNum="1924" PositionX="32" PositionY="26"/>
+                    <SummonMonster VNum="1923" PositionX="21" PositionY="26"/>
+                    <SummonMonster VNum="2015" PositionX="28" PositionY="41"/>
+                    <SummonMonster VNum="2015" PositionX="26" PositionY="39"/>
+                    <SummonMonster VNum="2015" PositionX="28" PositionY="39"/>
+                    <SummonMonster VNum="2015" PositionX="27" PositionY="41"/>
+                    <SummonMonster VNum="2015" PositionX="28" PositionY="39"/>
+                    <SummonMonster VNum="2015" PositionX="27" PositionY="40"/>
+                    <SummonMonster VNum="2015" PositionX="27" PositionY="40"/>
+                    <SummonMonster VNum="2015" PositionX="26" PositionY="39"/>
+                    <SummonMonster VNum="2015" PositionX="26" PositionY="39"/>
+                    <SummonMonster VNum="2015" PositionX="28" PositionY="40"/>
+                    <SummonMonster VNum="2015" PositionX="28" PositionY="40"/>
+                    <SummonMonster VNum="2015" PositionX="28" PositionY="39"/>
+                    <SummonMonster VNum="2015" PositionX="28" PositionY="41"/>
+                    <SummonMonster VNum="2015" PositionX="28" PositionY="41"/>
+                    <SummonMonster VNum="2015" PositionX="26" PositionY="39"/>
+                    <SummonMonster VNum="2015" PositionX="27" PositionY="41"/>
+                    <SummonMonster VNum="2015" PositionX="27" PositionY="41"/>
+                    <SummonMonster VNum="2015" PositionX="27" PositionY="41"/>
+                    <SummonMonster VNum="2015" PositionX="27" PositionY="41"/>
+                    <SummonMonster VNum="2015" PositionX="27" PositionY="39"/>
+                    <SummonMonster VNum="2371" PositionX="27" PositionY="27"/>
+                    <SummonMonster VNum="2371" PositionX="29" PositionY="32"/>
                     <SummonMonster VNum="2013" PositionX="15" PositionY="32" Move="false"/>
                     <SummonMonster VNum="2013" PositionX="24" PositionY="29" Move="false"/>
                     <SummonMonster VNum="2013" PositionX="26" PositionY="41" Move="false"/>
