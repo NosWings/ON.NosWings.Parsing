@@ -3,7 +3,7 @@
     <Globals>
         <Id Value="0" />
         <Label Value="Valakus" />
-        <LevelMinimum Value="40"/>
+        <LevelMinimum Value="90"/>
         <LevelMaximum Value="99"/>
         <StartX Value="178" />
         <StartY Value="178" />

@@ -3,10 +3,11 @@
   <Globals>
     <Id Value="0" />
     <Label Value="Raid cuby" />
-    <LevelMinimum Value="40"/>
-    <LevelMaximum Value="99"/>
+    <LevelMinimum Value="30"/>
+    <LevelMaximum Value="49"/>
     <StartX Value="77" />
     <StartY Value="167" />
+	<Reputation Value="1500" />
     <RequieredItems>
       <Item VNum="1127" Amount="1"/>
     </RequieredItems>
