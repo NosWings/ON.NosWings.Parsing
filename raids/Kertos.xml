@@ -16,19 +16,19 @@
   </Globals>
   <InstanceEvents>
     <CreateMap Map="0" VNum="2554">
-      <SummonMonster VNum="1912" PositionX="106" PositionY="59" IsTarget="true" IsHostile="true" Move="true">
+      <SummonMonster VNum="1904" PositionX="106" PositionY="59" IsTarget="true" IsHostile="true" Move="true">
         <OnDeath>
           <RemoveMonsterLocker />
           <RefreshRaidGoals />
         </OnDeath>
       </SummonMonster>
-      <SummonMonster VNum="1912" PositionX="93" PositionY="148" IsTarget="true" IsHostile="true" Move="true">
+      <SummonMonster VNum="1904" PositionX="93" PositionY="148" IsTarget="true" IsHostile="true" Move="true">
         <OnDeath>
           <RemoveMonsterLocker />
           <RefreshRaidGoals />
         </OnDeath>
       </SummonMonster>
-      <SummonMonster VNum="1912" PositionX="34" PositionY="138" IsTarget="true" IsHostile="true" Move="true">
+      <SummonMonster VNum="1904" PositionX="34" PositionY="138" IsTarget="true" IsHostile="true" Move="true">
         <OnDeath>
           <RemoveMonsterLocker />
           <RefreshRaidGoals />
