@@ -2,7 +2,7 @@
 <Definition>
    <Globals>
       <Id Value="9" />
-      <Label Value="Groupe des voleurs du désert" />
+      <Label Value="Ibrahim" />
       <LevelMinimum Value="80" />
       <LevelMaximum Value="99" />
       <StartX Value="52" />
