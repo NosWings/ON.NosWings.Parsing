@@ -7,9 +7,11 @@
     <LevelMaximum Value="99"/>
     <StartX Value="12" />
     <StartY Value="38" />
+      <Reputation Value="3500" />
     <RequieredItems>
       <Item VNum="5512" Amount="1"/>
     </RequieredItems>
+
     <GiftItems>
         <Item Amount="1" VNum="302" Design="17" IsRandomRare="True"/>
 		<Item Amount="1" VNum="2523" Design="0" IsRandomRare="False"/>

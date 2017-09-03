@@ -7,6 +7,7 @@
     <LevelMaximum Value="59"/>
     <StartX Value="24" />
     <StartY Value="180" />
+	  <Reputation Value="2000" />
     <RequieredItems>
       <Item VNum="1128" Amount="1"/>
     </RequieredItems>
