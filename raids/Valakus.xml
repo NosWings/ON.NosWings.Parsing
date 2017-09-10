@@ -208,7 +208,8 @@
             <SetMonsterLockers Value="10" />
             <SetButtonLockers Value="2" />
             <OnLockerOpen>
-                <ChangePortalType Type="2" IdOnMap="0" /><RefreshMapItems/>
+                <ChangePortalType Type="2" IdOnMap="0" />
+                <RefreshMapItems/>
                 <SendMessage Value="Le portail est ouvert" Type="0" />
             </OnLockerOpen>
             <GenerateClock Value="24000"/><StartClock/>
