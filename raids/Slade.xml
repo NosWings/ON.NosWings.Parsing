@@ -3,7 +3,7 @@
     <Globals>
         <Id Value="0" />
         <Label Value="Slade" />
-        <LevelMinimum Value="40"/>
+        <LevelMinimum Value="70"/>
         <LevelMaximum Value="99"/>
         <StartX Value="21" />
         <StartY Value="229" />
@@ -204,7 +204,61 @@
             <SummonMonster VNum="209" PositionX="161" PositionY="156"/>
             <SummonMonster VNum="209" PositionX="160" PositionY="170"/>
             <SummonMonster VNum="209" PositionX="160" PositionY="147"/>
-            <SummonMonster VNum="165" PositionX="98" PositionY="87" IsTarget="True">
+            <SummonMonster VNum="165" PositionX="25" PositionY="173" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="23" PositionY="173" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="20" PositionY="172" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="17" PositionY="171" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="16" PositionY="174" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="39" PositionY="230" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="38" PositionY="228" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="36" PositionY="226" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="34" PositionY="228" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="33" PositionY="226" IsTarget="True">
                 <OnDeath>
                     <RemoveMonsterLocker/>
                     <RefreshRaidGoals/>
@@ -240,198 +294,6 @@
                     <RefreshRaidGoals/>
                 </OnDeath>
             </SummonMonster>
-            <SummonMonster VNum="165" PositionX="79" PositionY="148" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="75" PositionY="60" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="75" PositionY="145" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="74" PositionY="57" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="70" PositionY="59" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="69" PositionY="145" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="68" PositionY="62" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="66" PositionY="147" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="59" PositionY="148" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="52" PositionY="145" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="41" PositionY="146" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="39" PositionY="230" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="38" PositionY="228" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="36" PositionY="226" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="35" PositionY="54" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="34" PositionY="228" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="33" PositionY="226" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="31" PositionY="58" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="25" PositionY="173" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="23" PositionY="173" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="204" PositionY="159" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="202" PositionY="159" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="202" PositionY="157" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="200" PositionY="160" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="20" PositionY="172" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="199" PositionY="156" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="17" PositionY="171" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="169" PositionY="40" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="167" PositionY="39" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="167" PositionY="31" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="165" PositionY="37" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="164" PositionY="32" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
             <SummonMonster VNum="165" PositionX="162" PositionY="203" IsTarget="True">
                 <OnDeath>
                     <RemoveMonsterLocker/>
@@ -439,12 +301,6 @@
                 </OnDeath>
             </SummonMonster>
             <SummonMonster VNum="165" PositionX="161" PositionY="208" IsTarget="True">
-                <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
-                </OnDeath>
-            </SummonMonster>
-            <SummonMonster VNum="165" PositionX="16" PositionY="174" IsTarget="True">
                 <OnDeath>
                     <RemoveMonsterLocker/>
                     <RefreshRaidGoals/>
@@ -498,6 +354,36 @@
                     <RefreshRaidGoals/>
                 </OnDeath>
             </SummonMonster>
+            <SummonMonster VNum="165" PositionX="169" PositionY="40" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="167" PositionY="39" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="167" PositionY="31" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="165" PositionY="37" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="164" PositionY="32" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
             <SummonMonster VNum="165" PositionX="107" PositionY="86" IsTarget="True">
                 <OnDeath>
                     <RemoveMonsterLocker/>
@@ -515,6 +401,72 @@
                     <RemoveMonsterLocker/>
                     <RefreshRaidGoals/>
                 </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="98" PositionY="87" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="35" PositionY="54" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="31" PositionY="58" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="75" PositionY="60" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="74" PositionY="57" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="70" PositionY="59" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="68" PositionY="62" IsTarget="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                </OnDeath>
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="79" PositionY="148">
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="75" PositionY="145">
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="69" PositionY="145">
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="66" PositionY="147">
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="59" PositionY="148">
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="52" PositionY="145">
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="41" PositionY="146">
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="204" PositionY="159">
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="202" PositionY="159">
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="202" PositionY="157">
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="200" PositionY="160">
+            </SummonMonster>
+            <SummonMonster VNum="165" PositionX="199" PositionY="156">
             </SummonMonster>
             <SummonMonster VNum="164" PositionX="71" PositionY="117"/>
             <SummonMonster VNum="164" PositionX="71" PositionY="115"/>
