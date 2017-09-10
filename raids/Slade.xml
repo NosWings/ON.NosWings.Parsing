@@ -523,112 +523,110 @@
                     <RemoveButtonLocker/>
                     <RefreshRaidGoals/>
                 </OnFirstEnable>
-            </SpawnButton><SpawnButton PositionY="131" PositionX="98" VNumDisabled="1135" VNumEnabled="1136" Id="1">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton><SpawnButton PositionY="34" PositionX="95" VNumDisabled="1135" VNumEnabled="1136" Id="2">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton><SpawnButton PositionY="197" PositionX="90" VNumDisabled="1135" VNumEnabled="1136" Id="3">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton><SpawnButton PositionY="89" PositionX="72" VNumDisabled="1135" VNumEnabled="1136" Id="4">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton><SpawnButton PositionY="168" PositionX="53" VNumDisabled="1135" VNumEnabled="1136" Id="5">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton><SpawnButton PositionY="93" PositionX="38" VNumDisabled="1135" VNumEnabled="1136" Id="6">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton><SpawnButton PositionY="73" PositionX="36" VNumDisabled="1135" VNumEnabled="1136" Id="7">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton><SpawnButton PositionY="146" PositionX="24" VNumDisabled="1135" VNumEnabled="1136" Id="8">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton><SpawnButton PositionY="197" PositionX="218" VNumDisabled="1135" VNumEnabled="1136" Id="9">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton><SpawnButton PositionY="99" PositionX="214" VNumDisabled="1135" VNumEnabled="1136" Id="10">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton><SpawnButton PositionY="128" PositionX="203" VNumDisabled="1135" VNumEnabled="1136" Id="11">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton><SpawnButton PositionY="225" PositionX="168" VNumDisabled="1135" VNumEnabled="1136" Id="12">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton><SpawnButton PositionY="163" PositionX="163" VNumDisabled="1135" VNumEnabled="1136" Id="13">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton><SpawnButton PositionY="85" PositionX="161" VNumDisabled="1135" VNumEnabled="1136" Id="14">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton><SpawnButton PositionY="34" PositionX="142" VNumDisabled="1135" VNumEnabled="1136" Id="15">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton><SpawnButton PositionY="70" PositionX="138" VNumDisabled="1135" VNumEnabled="1136" Id="16">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton><SpawnButton PositionY="96" PositionX="135" VNumDisabled="1135" VNumEnabled="1136" Id="17">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton><SpawnButton PositionY="122" PositionX="129" VNumDisabled="1135" VNumEnabled="1136" Id="18">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton><SpawnButton PositionY="35" PositionX="126" VNumDisabled="1135" VNumEnabled="1136" Id="19">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton><SpawnButton PositionY="35" PositionX="111" VNumDisabled="1135" VNumEnabled="1136" Id="20">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton><SpawnButton PositionY="115" PositionX="104" VNumDisabled="1135" VNumEnabled="1136" Id="21">
-            <OnFirstEnable>
-                <RemoveButtonLocker/>
-                <RefreshRaidGoals/>
-            </OnFirstEnable>
-        </SpawnButton>
+            </SpawnButton>
+            <SpawnButton PositionY="197" PositionX="90" VNumDisabled="1135" VNumEnabled="1136" Id="3">
+                <OnFirstEnable>
+                    <RemoveButtonLocker/>
+                    <RefreshRaidGoals/>
+                </OnFirstEnable>
+            </SpawnButton>
+            <SpawnButton PositionY="89" PositionX="72" VNumDisabled="1135" VNumEnabled="1136" Id="4">
+                <OnFirstEnable>
+                    <RemoveButtonLocker/>
+                    <RefreshRaidGoals/>
+                </OnFirstEnable>
+            </SpawnButton>
+            <SpawnButton PositionY="168" PositionX="53" VNumDisabled="1135" VNumEnabled="1136" Id="5">
+                <OnFirstEnable>
+                    <RemoveButtonLocker/>
+                    <RefreshRaidGoals/>
+                </OnFirstEnable>
+            </SpawnButton>
+            <SpawnButton PositionY="93" PositionX="38" VNumDisabled="1135" VNumEnabled="1136" Id="6">
+                <OnFirstEnable>
+                    <RemoveButtonLocker/>
+                    <RefreshRaidGoals/>
+                </OnFirstEnable>
+            </SpawnButton>
+            <SpawnButton PositionY="146" PositionX="24" VNumDisabled="1135" VNumEnabled="1136" Id="8">
+                <OnFirstEnable>
+                    <RemoveButtonLocker/>
+                    <RefreshRaidGoals/>
+                </OnFirstEnable>
+            </SpawnButton>
+            <SpawnButton PositionY="197" PositionX="218" VNumDisabled="1135" VNumEnabled="1136" Id="9">
+                <OnFirstEnable>
+                    <RemoveButtonLocker/>
+                    <RefreshRaidGoals/>
+                </OnFirstEnable>
+            </SpawnButton>
+            <SpawnButton PositionY="99" PositionX="214" VNumDisabled="1135" VNumEnabled="1136" Id="10">
+                <OnFirstEnable>
+                    <RemoveButtonLocker/>
+                    <RefreshRaidGoals/>
+                </OnFirstEnable>
+            </SpawnButton>
+            <SpawnButton PositionY="225" PositionX="168" VNumDisabled="1135" VNumEnabled="1136" Id="12">
+                <OnFirstEnable>
+                    <RemoveButtonLocker/>
+                    <RefreshRaidGoals/>
+                </OnFirstEnable>
+            </SpawnButton>
+            <SpawnButton PositionY="163" PositionX="163" VNumDisabled="1135" VNumEnabled="1136" Id="13">
+                <OnFirstEnable>
+                    <RemoveButtonLocker/>
+                    <RefreshRaidGoals/>
+                </OnFirstEnable>
+            </SpawnButton>
+            <SpawnButton PositionY="85" PositionX="161" VNumDisabled="1135" VNumEnabled="1136" Id="14">
+                <OnFirstEnable>
+                    <RemoveButtonLocker/>
+                    <RefreshRaidGoals/>
+                </OnFirstEnable>
+            </SpawnButton>
+            <SpawnButton PositionY="70" PositionX="138" VNumDisabled="1135" VNumEnabled="1136" Id="16">
+                <OnFirstEnable>
+                    <RemoveButtonLocker/>
+                    <RefreshRaidGoals/>
+                </OnFirstEnable>
+            </SpawnButton>
+            <SpawnButton PositionY="96" PositionX="135" VNumDisabled="1135" VNumEnabled="1136" Id="17">
+                <OnFirstEnable>
+                    <RemoveButtonLocker/>
+                    <RefreshRaidGoals/>
+                </OnFirstEnable>
+            </SpawnButton>
+            <SpawnButton PositionY="122" PositionX="129" VNumDisabled="1135" VNumEnabled="1136" Id="18">
+                <OnFirstEnable>
+                    <RemoveButtonLocker/>
+                    <RefreshRaidGoals/>
+                </OnFirstEnable>
+            </SpawnButton>
+            <SpawnButton PositionY="35" PositionX="126" VNumDisabled="1135" VNumEnabled="1136" Id="19">
+                <OnFirstEnable>
+                    <RemoveButtonLocker/>
+                    <RefreshRaidGoals/>
+                </OnFirstEnable>
+            </SpawnButton>
+            <SpawnButton PositionY="115" PositionX="104" VNumDisabled="1135" VNumEnabled="1136" Id="21">
+                <OnFirstEnable>
+                    <RemoveButtonLocker/>
+                    <RefreshRaidGoals/>
+                </OnFirstEnable>
+            </SpawnButton>
+            <SpawnButton PositionY="131" PositionX="98" VNumDisabled="1135" VNumEnabled="1136" Id="1">
+            </SpawnButton>
+            <SpawnButton PositionY="34" PositionX="95" VNumDisabled="1135" VNumEnabled="1136" Id="2">
+                <!-- Need to add teleport -->
+            </SpawnButton>
+            <SpawnButton PositionY="73" PositionX="36" VNumDisabled="1135" VNumEnabled="1136" Id="7">
+            </SpawnButton><SpawnButton PositionY="34" PositionX="142" VNumDisabled="1135" VNumEnabled="1136" Id="15">
+                 <!-- Need to add teleport -->
+            </SpawnButton>
+
+            <SpawnButton PositionY="35" PositionX="111" VNumDisabled="1135" VNumEnabled="1136" Id="20">
+                <!-- Need to add teleport -->
+            </SpawnButton>
             <SetMonsterLockers Value="40" />
             <SetButtonLockers Value="16" />
             <OnLockerOpen>
