@@ -1,0 +1,7 @@
+*.iml
+workspace.xml
+preferred-vcs.xml
+modules.xml
+dbnavigator.xml
+*.wml
+vcs.xml
