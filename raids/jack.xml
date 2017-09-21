@@ -589,6 +589,57 @@
             </SpawnButton>
             <SpawnButton PositionY="32" PositionX="157" VNumDisabled="1135" VNumEnabled="1136" Id="12">
                 <OnFirstEnable>
+
+                    <SummonMonster VNum="2371" PositionX="114" PositionY="91"/>
+                    <SummonMonster VNum="1437" PositionX="51" PositionY="53"/>
+                    <SummonMonster VNum="293" PositionX="174" PositionY="166"/>
+                    <SummonMonster VNum="293" PositionX="174" PositionY="166"/>
+                    <SummonMonster VNum="293" PositionX="174" PositionY="166"/>
+                    <SummonMonster VNum="293" PositionX="174" PositionY="166"/>
+                    <SummonMonster VNum="293" PositionX="176" PositionY="171"/>
+                    <SummonMonster VNum="293" PositionX="174" PositionY="166"/>
+                    <SummonMonster VNum="293" PositionX="174" PositionY="166"/>
+                    <SummonMonster VNum="293" PositionX="174" PositionY="166"/>
+                    <SummonMonster VNum="293" PositionX="174" PositionY="166"/>
+                    <SummonMonster VNum="293" PositionX="174" PositionY="166"/>
+                    <SummonMonster VNum="2371" PositionX="175" PositionY="170"/>
+                    <SummonMonster VNum="2104" PositionX="171" PositionY="164"/>
+                    <SummonMonster VNum="2104" PositionX="173" PositionY="165"/>
+                    <SummonMonster VNum="2104" PositionX="176" PositionY="164"/>
+                    <SummonMonster VNum="2104" PositionX="175" PositionY="163"/>
+                    <SummonMonster VNum="2104" PositionX="175" PositionY="164"/>
+                    <SummonMonster VNum="2371" PositionX="47" PositionY="52"/>
+                    <SummonMonster VNum="2371" PositionX="40" PositionY="52"/>
+                    <SummonMonster VNum="1437" PositionX="33" PositionY="53"/>
+                    <SummonMonster VNum="293" PositionX="89" PositionY="163"/>
+                    <SummonMonster VNum="293" PositionX="85" PositionY="177"/>
+                    <SummonMonster VNum="293" PositionX="86" PositionY="175"/>
+                    <SummonMonster VNum="293" PositionX="88" PositionY="173"/>
+                    <SummonMonster VNum="293" PositionX="84" PositionY="166"/>
+                    <SummonMonster VNum="293" PositionX="85" PositionY="176"/>
+                    <SummonMonster VNum="293" PositionX="88" PositionY="171"/>
+                    <SummonMonster VNum="293" PositionX="120" PositionY="87"/>
+                    <SummonMonster VNum="293" PositionX="84" PositionY="173"/>
+                    <SummonMonster VNum="293" PositionX="83" PositionY="162"/>
+                    <SummonMonster VNum="293" PositionX="128" PositionY="127"/>
+                    <SummonMonster VNum="293" PositionX="136" PositionY="128"/>
+                    <SummonMonster VNum="293" PositionX="121" PositionY="127"/>
+                    <SummonMonster VNum="293" PositionX="114" PositionY="127"/>
+                    <SummonMonster VNum="293" PositionX="114" PositionY="128"/>
+                    <SummonMonster VNum="293" PositionX="129" PositionY="127"/>
+                    <SummonMonster VNum="293" PositionX="145" PositionY="127"/>
+                    <SummonMonster VNum="293" PositionX="146" PositionY="129"/>
+                    <SummonMonster VNum="293" PositionX="127" PositionY="129"/>
+                    <SummonMonster VNum="293" PositionX="123" PositionY="127"/>
+                    <SummonMonster VNum="293" PositionX="138" PositionY="129"/>
+                    <SummonMonster VNum="293" PositionX="136" PositionY="127"/>
+                    <SummonMonster VNum="293" PositionX="122" PositionY="128"/>
+                    <SummonMonster VNum="293" PositionX="137" PositionY="127"/>
+                    <SummonMonster VNum="851" PositionX="81" PositionY="131"/>
+                    <SummonMonster VNum="851" PositionX="110" PositionY="127"/>
+                    <SummonMonster VNum="851" PositionX="109" PositionY="130"/>
+                    <SummonMonster VNum="851" PositionX="121" PositionY="127"/>
+                    <SummonMonster VNum="851" PositionX="117" PositionY="128"/>
                     <RemoveButtonLocker/>
                     <RefreshRaidGoals/>
                 </OnFirstEnable>
@@ -603,12 +654,75 @@
             </SpawnButton>
             <SpawnButton PositionY="98" PositionX="128" VNumDisabled="1135" VNumEnabled="1136" Id="15">
                 <OnFirstEnable>
+                    <SummonMonster VNum="851" PositionX="131" PositionY="143"/>
+                    <SummonMonster VNum="851" PositionX="124" PositionY="128"/>
+                    <SummonMonster VNum="851" PositionX="119" PositionY="130"/>
+                    <SummonMonster VNum="851" PositionX="108" PositionY="120"/>
+                    <SummonMonster VNum="851" PositionX="116" PositionY="127"/>
+                    <SummonMonster VNum="851" PositionX="114" PositionY="127"/>
+                    <SummonMonster VNum="851" PositionX="157" PositionY="22"/>
+                    <SummonMonster VNum="851" PositionX="113" PositionY="130"/>
+                    <SummonMonster VNum="851" PositionX="107" PositionY="143"/>
+                    <SummonMonster VNum="851" PositionX="115" PositionY="90"/>
+                    <SummonMonster VNum="2371" PositionX="137" PositionY="129"/>
+                    <SummonMonster VNum="2104" PositionX="126" PositionY="107"/>
+                    <SummonMonster VNum="2104" PositionX="125" PositionY="107"/>
+                    <SummonMonster VNum="2104" PositionX="126" PositionY="108"/>
+                    <SummonMonster VNum="2371" PositionX="129" PositionY="97"/>
+                    <SummonMonster VNum="2371" PositionX="130" PositionY="96"/>
+                    <SummonMonster VNum="171" PositionX="153" PositionY="24"/>
+                    <SummonMonster VNum="171" PositionX="133" PositionY="41"/>
+                    <SummonMonster VNum="171" PositionX="158" PositionY="109"/>
+                    <SummonMonster VNum="171" PositionX="82" PositionY="137"/>
+                    <SummonMonster VNum="171" PositionX="154" PositionY="51"/>
+                    <SummonMonster VNum="171" PositionX="144" PositionY="108"/>
+                    <SummonMonster VNum="171" PositionX="153" PositionY="107"/>
+                    <SummonMonster VNum="171" PositionX="162" PositionY="107"/>
+                    <SummonMonster VNum="171" PositionX="160" PositionY="110"/>
+                    <SummonMonster VNum="171" PositionX="135" PositionY="106"/>
+                    <SummonMonster VNum="171" PositionX="130" PositionY="109"/>
+                    <SummonMonster VNum="171" PositionX="144" PositionY="106"/>
+                    <SummonMonster VNum="171" PositionX="160" PositionY="107" />
+                    <SummonMonster VNum="171" PositionX="162" PositionY="109" />
+                    <SummonMonster VNum="2371" PositionX="137" PositionY="95"/>
+                    <SummonMonster VNum="2104" PositionX="137" PositionY="98"/>
+                    <SummonMonster VNum="2371" PositionX="158" PositionY="108"/>
+                    <SummonMonster VNum="2371" PositionX="158" PositionY="110"/>
+                    <SummonMonster VNum="2371" PositionX="156" PositionY="107"/>
+                    <SummonMonster VNum="2104" PositionX="160" PositionY="107"/>
+                    <SummonMonster VNum="2104" PositionX="160" PositionY="108"/>
                     <RemoveButtonLocker/>
                     <RefreshRaidGoals/>
                 </OnFirstEnable>
             </SpawnButton>
             <SpawnButton PositionY="161" PositionX="127" VNumDisabled="1135" VNumEnabled="1136" Id="16">
                 <OnFirstEnable>
+                    <SummonMonster VNum="2371" PositionX="84" PositionY="168"/>
+                    <SummonMonster VNum="216" PositionX="87" PositionY="160"/>
+                    <SummonMonster VNum="216" PositionX="130" PositionY="161"/>
+                    <SummonMonster VNum="216" PositionX="123" PositionY="22"/>
+                    <SummonMonster VNum="216" PositionX="159" PositionY="38"/>
+                    <SummonMonster VNum="216" PositionX="172" PositionY="66"/>
+                    <SummonMonster VNum="216" PositionX="170" PositionY="99"/>
+                    <SummonMonster VNum="216" PositionX="128" PositionY="62"/>
+                    <SummonMonster VNum="216" PositionX="53" PositionY="51"/>
+                    <SummonMonster VNum="216" PositionX="120" PositionY="142"/>
+                    <SummonMonster VNum="216" PositionX="172" PositionY="15"/>
+                    <SummonMonster VNum="216" PositionX="149" PositionY="154"/>
+                    <SummonMonster VNum="216" PositionX="128" PositionY="161"/>
+                    <SummonMonster VNum="216" PositionX="29" PositionY="105"/>
+                    <SummonMonster VNum="216" PositionX="85" PositionY="143"/>
+                    <SummonMonster VNum="216" PositionX="108" PositionY="122"/>
+                    <SummonMonster VNum="216" PositionX="132" PositionY="145"/>
+                    <SummonMonster VNum="216" PositionX="126" PositionY="142"/>
+                    <SummonMonster VNum="216" PositionX="129" PositionY="146"/>
+                    <SummonMonster VNum="216" PositionX="101" PositionY="11"/>
+                    <SummonMonster VNum="216" PositionX="123" PositionY="142"/>
+                    <SummonMonster VNum="216" PositionX="111" PositionY="145"/>
+                    <SummonMonster VNum="216" PositionX="130" PositionY="151"/>
+                    <SummonMonster VNum="216" PositionX="130" PositionY="156"/>
+                    <SummonMonster VNum="216" PositionX="119" PositionY="143"/>
+                    <SummonMonster VNum="216" PositionX="121" PositionY="142"/>
                     <RemoveButtonLocker/>
                     <RefreshRaidGoals/>
                 </OnFirstEnable>
@@ -646,60 +760,6 @@
                     <RemoveButtonLocker/>
                     <RefreshRaidGoals/>
                 </OnFirstEnable>
-                <SummonMonster VNum="2371" PositionX="84" PositionY="168"/>
-                <SummonMonster VNum="216" PositionX="87" PositionY="160"/>
-                <SummonMonster VNum="216" PositionX="130" PositionY="161"/>
-                <SummonMonster VNum="216" PositionX="123" PositionY="22"/>
-                <SummonMonster VNum="216" PositionX="159" PositionY="38"/>
-                <SummonMonster VNum="216" PositionX="172" PositionY="66"/>
-                <SummonMonster VNum="216" PositionX="170" PositionY="99"/>
-                <SummonMonster VNum="216" PositionX="128" PositionY="62"/>
-                <SummonMonster VNum="216" PositionX="53" PositionY="51"/>
-                <SummonMonster VNum="216" PositionX="120" PositionY="142"/>
-                <SummonMonster VNum="216" PositionX="172" PositionY="15"/>
-                <SummonMonster VNum="216" PositionX="149" PositionY="154"/>
-                <SummonMonster VNum="216" PositionX="128" PositionY="161"/>
-                <SummonMonster VNum="216" PositionX="29" PositionY="105"/>
-                <SummonMonster VNum="216" PositionX="85" PositionY="143"/>
-                <SummonMonster VNum="216" PositionX="108" PositionY="122"/>
-                <SummonMonster VNum="216" PositionX="132" PositionY="145"/>
-                <SummonMonster VNum="216" PositionX="126" PositionY="142"/>
-                <SummonMonster VNum="216" PositionX="129" PositionY="146"/>
-                <SummonMonster VNum="216" PositionX="101" PositionY="11"/>
-                <SummonMonster VNum="216" PositionX="123" PositionY="142"/>
-                <SummonMonster VNum="216" PositionX="111" PositionY="145"/>
-                <SummonMonster VNum="216" PositionX="130" PositionY="151"/>
-                <SummonMonster VNum="216" PositionX="130" PositionY="156"/>
-                <SummonMonster VNum="216" PositionX="119" PositionY="143"/>
-                <SummonMonster VNum="216" PositionX="121" PositionY="142"/>
-                <SummonMonster VNum="216" PositionX="127" PositionY="77"/>
-                <SummonMonster VNum="216" PositionX="31" PositionY="107"/>
-                <SummonMonster VNum="216" PositionX="133" PositionY="154"/>
-                <SummonMonster VNum="216" PositionX="111" PositionY="33"/>
-                <SummonMonster VNum="216" PositionX="172" PositionY="73"/>
-                <SummonMonster VNum="2371" PositionX="57" PositionY="141"/>
-                <SummonMonster VNum="2371" PositionX="57" PositionY="135"/>
-                <SummonMonster VNum="219" PositionX="56" PositionY="146"/>
-                <SummonMonster VNum="219" PositionX="56" PositionY="146"/>
-                <SummonMonster VNum="219" PositionX="56" PositionY="146"/>
-                <SummonMonster VNum="261" PositionX="54" PositionY="165"/>
-                <SummonMonster VNum="261" PositionX="134" PositionY="79"/>
-                <SummonMonster VNum="261" PositionX="68" PositionY="166"/>
-                <SummonMonster VNum="261" PositionX="54" PositionY="154"/>
-                <SummonMonster VNum="261" PositionX="34" PositionY="96"/>
-                <SummonMonster VNum="261" PositionX="109" PositionY="22"/>
-                <SummonMonster VNum="261" PositionX="57" PositionY="38"/>
-                <SummonMonster VNum="261" PositionX="60" PositionY="78"/>
-                <SummonMonster VNum="261" PositionX="47" PositionY="51"/>
-                <SummonMonster VNum="261" PositionX="127" PositionY="42"/>
-                <SummonMonster VNum="261" PositionX="56" PositionY="152"/>
-                <SummonMonster VNum="261" PositionX="58" PositionY="144"/>
-                <SummonMonster VNum="261" PositionX="15" PositionY="48"/>
-                <SummonMonster VNum="261" PositionX="81" PositionY="72"/>
-                <SummonMonster VNum="261" PositionX="59" PositionY="70"/>
-                <SummonMonster VNum="261" PositionX="55" PositionY="157"/>
-                <SummonMonster VNum="261" PositionX="72" PositionY="100"/>
-                <SummonMonster VNum="261" PositionX="59" PositionY="108"/>
                 <SummonMonster VNum="261" PositionX="44" PositionY="16"/>
                 <SummonMonster VNum="261" PositionX="55" PositionY="151"/>
                 <SummonMonster VNum="261" PositionX="158" PositionY="28"/>
@@ -938,93 +998,6 @@
                 <SummonMonster VNum="2371" PositionX="114" PositionY="91"/>
                 <SummonMonster VNum="2371" PositionX="58" PositionY="54"/>
                 <SummonMonster VNum="2371" PositionX="173" PositionY="164"/>
-                <SummonMonster VNum="2371" PositionX="114" PositionY="91"/>
-                <SummonMonster VNum="1437" PositionX="51" PositionY="53"/>
-                <SummonMonster VNum="293" PositionX="174" PositionY="166"/>
-                <SummonMonster VNum="293" PositionX="174" PositionY="166"/>
-                <SummonMonster VNum="293" PositionX="174" PositionY="166"/>
-                <SummonMonster VNum="293" PositionX="174" PositionY="166"/>
-                <SummonMonster VNum="293" PositionX="176" PositionY="171"/>
-                <SummonMonster VNum="293" PositionX="174" PositionY="166"/>
-                <SummonMonster VNum="293" PositionX="174" PositionY="166"/>
-                <SummonMonster VNum="293" PositionX="174" PositionY="166"/>
-                <SummonMonster VNum="293" PositionX="174" PositionY="166"/>
-                <SummonMonster VNum="293" PositionX="174" PositionY="166"/>
-                <SummonMonster VNum="2371" PositionX="175" PositionY="170"/>
-                <SummonMonster VNum="2104" PositionX="171" PositionY="164"/>
-                <SummonMonster VNum="2104" PositionX="173" PositionY="165"/>
-                <SummonMonster VNum="2104" PositionX="176" PositionY="164"/>
-                <SummonMonster VNum="2104" PositionX="175" PositionY="163"/>
-                <SummonMonster VNum="2104" PositionX="175" PositionY="164"/>
-                <SummonMonster VNum="2371" PositionX="47" PositionY="52"/>
-                <SummonMonster VNum="2371" PositionX="40" PositionY="52"/>
-                <SummonMonster VNum="1437" PositionX="33" PositionY="53"/>
-                <SummonMonster VNum="293" PositionX="89" PositionY="163"/>
-                <SummonMonster VNum="293" PositionX="85" PositionY="177"/>
-                <SummonMonster VNum="293" PositionX="86" PositionY="175"/>
-                <SummonMonster VNum="293" PositionX="88" PositionY="173"/>
-                <SummonMonster VNum="293" PositionX="84" PositionY="166"/>
-                <SummonMonster VNum="293" PositionX="85" PositionY="176"/>
-                <SummonMonster VNum="293" PositionX="88" PositionY="171"/>
-                <SummonMonster VNum="293" PositionX="120" PositionY="87"/>
-                <SummonMonster VNum="293" PositionX="84" PositionY="173"/>
-                <SummonMonster VNum="293" PositionX="83" PositionY="162"/>
-                <SummonMonster VNum="293" PositionX="128" PositionY="127"/>
-                <SummonMonster VNum="293" PositionX="136" PositionY="128"/>
-                <SummonMonster VNum="293" PositionX="121" PositionY="127"/>
-                <SummonMonster VNum="293" PositionX="114" PositionY="127"/>
-                <SummonMonster VNum="293" PositionX="114" PositionY="128"/>
-                <SummonMonster VNum="293" PositionX="129" PositionY="127"/>
-                <SummonMonster VNum="293" PositionX="145" PositionY="127"/>
-                <SummonMonster VNum="293" PositionX="146" PositionY="129"/>
-                <SummonMonster VNum="293" PositionX="127" PositionY="129"/>
-                <SummonMonster VNum="293" PositionX="123" PositionY="127"/>
-                <SummonMonster VNum="293" PositionX="138" PositionY="129"/>
-                <SummonMonster VNum="293" PositionX="136" PositionY="127"/>
-                <SummonMonster VNum="293" PositionX="122" PositionY="128"/>
-                <SummonMonster VNum="293" PositionX="137" PositionY="127"/>
-                <SummonMonster VNum="851" PositionX="81" PositionY="131"/>
-                <SummonMonster VNum="851" PositionX="110" PositionY="127"/>
-                <SummonMonster VNum="851" PositionX="109" PositionY="130"/>
-                <SummonMonster VNum="851" PositionX="121" PositionY="127"/>
-                <SummonMonster VNum="851" PositionX="117" PositionY="128"/>
-                <SummonMonster VNum="851" PositionX="131" PositionY="143"/>
-                <SummonMonster VNum="851" PositionX="124" PositionY="128"/>
-                <SummonMonster VNum="851" PositionX="119" PositionY="130"/>
-                <SummonMonster VNum="851" PositionX="108" PositionY="120"/>
-                <SummonMonster VNum="851" PositionX="116" PositionY="127"/>
-                <SummonMonster VNum="851" PositionX="114" PositionY="127"/>
-                <SummonMonster VNum="851" PositionX="157" PositionY="22"/>
-                <SummonMonster VNum="851" PositionX="113" PositionY="130"/>
-                <SummonMonster VNum="851" PositionX="107" PositionY="143"/>
-                <SummonMonster VNum="851" PositionX="115" PositionY="90"/>
-                <SummonMonster VNum="2371" PositionX="137" PositionY="129"/>
-                <SummonMonster VNum="2104" PositionX="126" PositionY="107"/>
-                <SummonMonster VNum="2104" PositionX="125" PositionY="107"/>
-                <SummonMonster VNum="2104" PositionX="126" PositionY="108"/>
-                <SummonMonster VNum="2371" PositionX="129" PositionY="97"/>
-                <SummonMonster VNum="2371" PositionX="130" PositionY="96"/>
-                <SummonMonster VNum="171" PositionX="153" PositionY="24"/>
-                <SummonMonster VNum="171" PositionX="133" PositionY="41"/>
-                <SummonMonster VNum="171" PositionX="158" PositionY="109"/>
-                <SummonMonster VNum="171" PositionX="82" PositionY="137"/>
-                <SummonMonster VNum="171" PositionX="154" PositionY="51"/>
-                <SummonMonster VNum="171" PositionX="144" PositionY="108"/>
-                <SummonMonster VNum="171" PositionX="153" PositionY="107"/>
-                <SummonMonster VNum="171" PositionX="162" PositionY="107"/>
-                <SummonMonster VNum="171" PositionX="160" PositionY="110"/>
-                <SummonMonster VNum="171" PositionX="135" PositionY="106"/>
-                <SummonMonster VNum="171" PositionX="130" PositionY="109"/>
-                <SummonMonster VNum="171" PositionX="144" PositionY="106"/>
-                <SummonMonster VNum="171" PositionX="160" PositionY="107" />
-                <SummonMonster VNum="171" PositionX="162" PositionY="109" />
-                <SummonMonster VNum="2371" PositionX="137" PositionY="95"/>
-                <SummonMonster VNum="2104" PositionX="137" PositionY="98"/>
-                <SummonMonster VNum="2371" PositionX="158" PositionY="108"/>
-                <SummonMonster VNum="2371" PositionX="158" PositionY="110"/>
-                <SummonMonster VNum="2371" PositionX="156" PositionY="107"/>
-                <SummonMonster VNum="2104" PositionX="160" PositionY="107"/>
-                <SummonMonster VNum="2104" PositionX="160" PositionY="108"/>
             </SpawnButton>
             <SpawnButton PositionY="90" PositionX="117" VNumDisabled="1135" VNumEnabled="1136" Id="19">
             </SpawnButton>
@@ -1053,20 +1026,6 @@
             <OnMoveOnMap>
                 <Wave Offset="1" Delay="30">
                     <SummonMonster VNum="163" PositionX="53" PositionY="41"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="39"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="37"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="35"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="33"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="31"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="40"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="38"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="36"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="34"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="32"/>
-                    <SummonMonster VNum="163" PositionX="33" PositionY="18"/>
-                    <SummonMonster VNum="163" PositionX="15" PositionY="39"/>
-                    <SummonMonster VNum="163" PositionX="15" PositionY="37"/>
-                    <SummonMonster VNum="163" PositionX="15" PositionY="34"/>
                     <SummonMonster VNum="163" PositionX="15" PositionY="33"/>
                     <SummonMonster VNum="163" PositionX="14" PositionY="40"/>
                     <SummonMonster VNum="163" PositionX="14" PositionY="38"/>
@@ -1084,13 +1043,7 @@
                     <SummonMonster VNum="216" PositionX="14" PositionY="31"/>
                     <SummonMonster VNum="216" PositionX="14" PositionY="33"/>
                     <SummonMonster VNum="216" PositionX="14" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="41"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="34"/>
                     <SummonMonster VNum="216" PositionX="15" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="38"/>
                     <SummonMonster VNum="216" PositionX="15" PositionY="40"/>
                     <SummonMonster VNum="216" PositionX="17" PositionY="33"/>
                     <SummonMonster VNum="216" PositionX="17" PositionY="35"/>
@@ -1098,92 +1051,9 @@
                     <SummonMonster VNum="216" PositionX="17" PositionY="39"/>
                     <SummonMonster VNum="216" PositionX="50" PositionY="32"/>
                     <SummonMonster VNum="216" PositionX="50" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="31"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="30"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="40"/>
-                    <SummonMonster VNum="2371" PositionX="38" PositionY="39"/>
-                    <SummonMonster VNum="1438" PositionX="33" PositionY="35"/>
-                    <SummonMonster VNum="2104" PositionX="31" PositionY="39"/>
-                    <SummonMonster VNum="2371" PositionX="34" PositionY="40"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="31"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="41"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="40"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="31"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="30"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="40"/>
-                    <SummonMonster VNum="219" PositionX="18" PositionY="47"/>
-                    <SummonMonster VNum="219" PositionX="19" PositionY="48"/>
-                    <SummonMonster VNum="219" PositionX="20" PositionY="49"/>
-                    <SummonMonster VNum="219" PositionX="21" PositionY="49"/>
-                    <SummonMonster VNum="219" PositionX="22" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="24" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="26" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="29" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="31" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="36" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="37" PositionY="52"/>
-                    <SummonMonster VNum="219" PositionX="39" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="40" PositionY="52"/>
-                    <SummonMonster VNum="219" PositionX="42" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="44" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="45" PositionY="48"/>
-                    <SummonMonster VNum="219" PositionX="45" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="46" PositionY="48"/>
-                    <SummonMonster VNum="219" PositionX="47" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="48" PositionY="49"/>
-                    <SummonMonster VNum="219" PositionX="49" PositionY="48"/>
-                    <SummonMonster VNum="2371" PositionX="34" PositionY="36"/>
                 </Wave>
                 <Wave Offset="2" Delay="30">
-                    <SummonMonster VNum="163" PositionX="53" PositionY="41"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="39"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="37"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="35"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="33"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="31"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="40"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="38"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="36"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="34"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="32"/>
-                    <SummonMonster VNum="163" PositionX="33" PositionY="18"/>
-                    <SummonMonster VNum="163" PositionX="15" PositionY="39"/>
-                    <SummonMonster VNum="163" PositionX="15" PositionY="37"/>
-                    <SummonMonster VNum="163" PositionX="15" PositionY="34"/>
+                                       <SummonMonster VNum="163" PositionX="53" PositionY="41"/>
                     <SummonMonster VNum="163" PositionX="15" PositionY="33"/>
                     <SummonMonster VNum="163" PositionX="14" PositionY="40"/>
                     <SummonMonster VNum="163" PositionX="14" PositionY="38"/>
@@ -1201,13 +1071,7 @@
                     <SummonMonster VNum="216" PositionX="14" PositionY="31"/>
                     <SummonMonster VNum="216" PositionX="14" PositionY="33"/>
                     <SummonMonster VNum="216" PositionX="14" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="41"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="34"/>
                     <SummonMonster VNum="216" PositionX="15" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="38"/>
                     <SummonMonster VNum="216" PositionX="15" PositionY="40"/>
                     <SummonMonster VNum="216" PositionX="17" PositionY="33"/>
                     <SummonMonster VNum="216" PositionX="17" PositionY="35"/>
@@ -1215,92 +1079,9 @@
                     <SummonMonster VNum="216" PositionX="17" PositionY="39"/>
                     <SummonMonster VNum="216" PositionX="50" PositionY="32"/>
                     <SummonMonster VNum="216" PositionX="50" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="31"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="30"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="40"/>
-                    <SummonMonster VNum="2371" PositionX="38" PositionY="39"/>
-                    <SummonMonster VNum="1438" PositionX="33" PositionY="35"/>
-                    <SummonMonster VNum="2104" PositionX="31" PositionY="39"/>
-                    <SummonMonster VNum="2371" PositionX="34" PositionY="40"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="31"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="41"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="40"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="31"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="30"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="40"/>
-                    <SummonMonster VNum="219" PositionX="18" PositionY="47"/>
-                    <SummonMonster VNum="219" PositionX="19" PositionY="48"/>
-                    <SummonMonster VNum="219" PositionX="20" PositionY="49"/>
-                    <SummonMonster VNum="219" PositionX="21" PositionY="49"/>
-                    <SummonMonster VNum="219" PositionX="22" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="24" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="26" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="29" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="31" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="36" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="37" PositionY="52"/>
-                    <SummonMonster VNum="219" PositionX="39" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="40" PositionY="52"/>
-                    <SummonMonster VNum="219" PositionX="42" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="44" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="45" PositionY="48"/>
-                    <SummonMonster VNum="219" PositionX="45" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="46" PositionY="48"/>
-                    <SummonMonster VNum="219" PositionX="47" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="48" PositionY="49"/>
-                    <SummonMonster VNum="219" PositionX="49" PositionY="48"/>
-                    <SummonMonster VNum="2371" PositionX="34" PositionY="36"/>
                 </Wave>
                 <Wave Offset="3" Delay="30">
-                    <SummonMonster VNum="163" PositionX="53" PositionY="41"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="39"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="37"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="35"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="33"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="31"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="40"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="38"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="36"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="34"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="32"/>
-                    <SummonMonster VNum="163" PositionX="33" PositionY="18"/>
-                    <SummonMonster VNum="163" PositionX="15" PositionY="39"/>
-                    <SummonMonster VNum="163" PositionX="15" PositionY="37"/>
-                    <SummonMonster VNum="163" PositionX="15" PositionY="34"/>
+                                       <SummonMonster VNum="163" PositionX="53" PositionY="41"/>
                     <SummonMonster VNum="163" PositionX="15" PositionY="33"/>
                     <SummonMonster VNum="163" PositionX="14" PositionY="40"/>
                     <SummonMonster VNum="163" PositionX="14" PositionY="38"/>
@@ -1318,13 +1099,7 @@
                     <SummonMonster VNum="216" PositionX="14" PositionY="31"/>
                     <SummonMonster VNum="216" PositionX="14" PositionY="33"/>
                     <SummonMonster VNum="216" PositionX="14" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="41"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="34"/>
                     <SummonMonster VNum="216" PositionX="15" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="38"/>
                     <SummonMonster VNum="216" PositionX="15" PositionY="40"/>
                     <SummonMonster VNum="216" PositionX="17" PositionY="33"/>
                     <SummonMonster VNum="216" PositionX="17" PositionY="35"/>
@@ -1332,92 +1107,9 @@
                     <SummonMonster VNum="216" PositionX="17" PositionY="39"/>
                     <SummonMonster VNum="216" PositionX="50" PositionY="32"/>
                     <SummonMonster VNum="216" PositionX="50" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="31"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="30"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="40"/>
-                    <SummonMonster VNum="2371" PositionX="38" PositionY="39"/>
-                    <SummonMonster VNum="1438" PositionX="33" PositionY="35"/>
-                    <SummonMonster VNum="2104" PositionX="31" PositionY="39"/>
-                    <SummonMonster VNum="2371" PositionX="34" PositionY="40"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="31"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="41"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="40"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="31"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="30"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="40"/>
-                    <SummonMonster VNum="219" PositionX="18" PositionY="47"/>
-                    <SummonMonster VNum="219" PositionX="19" PositionY="48"/>
-                    <SummonMonster VNum="219" PositionX="20" PositionY="49"/>
-                    <SummonMonster VNum="219" PositionX="21" PositionY="49"/>
-                    <SummonMonster VNum="219" PositionX="22" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="24" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="26" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="29" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="31" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="36" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="37" PositionY="52"/>
-                    <SummonMonster VNum="219" PositionX="39" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="40" PositionY="52"/>
-                    <SummonMonster VNum="219" PositionX="42" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="44" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="45" PositionY="48"/>
-                    <SummonMonster VNum="219" PositionX="45" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="46" PositionY="48"/>
-                    <SummonMonster VNum="219" PositionX="47" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="48" PositionY="49"/>
-                    <SummonMonster VNum="219" PositionX="49" PositionY="48"/>
-                    <SummonMonster VNum="2371" PositionX="34" PositionY="36"/>
                 </Wave>
                 <Wave Offset="4" Delay="30">
-                    <SummonMonster VNum="163" PositionX="53" PositionY="41"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="39"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="37"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="35"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="33"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="31"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="40"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="38"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="36"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="34"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="32"/>
-                    <SummonMonster VNum="163" PositionX="33" PositionY="18"/>
-                    <SummonMonster VNum="163" PositionX="15" PositionY="39"/>
-                    <SummonMonster VNum="163" PositionX="15" PositionY="37"/>
-                    <SummonMonster VNum="163" PositionX="15" PositionY="34"/>
+                                       <SummonMonster VNum="163" PositionX="53" PositionY="41"/>
                     <SummonMonster VNum="163" PositionX="15" PositionY="33"/>
                     <SummonMonster VNum="163" PositionX="14" PositionY="40"/>
                     <SummonMonster VNum="163" PositionX="14" PositionY="38"/>
@@ -1435,13 +1127,7 @@
                     <SummonMonster VNum="216" PositionX="14" PositionY="31"/>
                     <SummonMonster VNum="216" PositionX="14" PositionY="33"/>
                     <SummonMonster VNum="216" PositionX="14" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="41"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="34"/>
                     <SummonMonster VNum="216" PositionX="15" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="38"/>
                     <SummonMonster VNum="216" PositionX="15" PositionY="40"/>
                     <SummonMonster VNum="216" PositionX="17" PositionY="33"/>
                     <SummonMonster VNum="216" PositionX="17" PositionY="35"/>
@@ -1449,92 +1135,9 @@
                     <SummonMonster VNum="216" PositionX="17" PositionY="39"/>
                     <SummonMonster VNum="216" PositionX="50" PositionY="32"/>
                     <SummonMonster VNum="216" PositionX="50" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="31"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="30"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="40"/>
-                    <SummonMonster VNum="2371" PositionX="38" PositionY="39"/>
-                    <SummonMonster VNum="1438" PositionX="33" PositionY="35"/>
-                    <SummonMonster VNum="2104" PositionX="31" PositionY="39"/>
-                    <SummonMonster VNum="2371" PositionX="34" PositionY="40"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="31"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="41"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="40"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="31"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="30"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="40"/>
-                    <SummonMonster VNum="219" PositionX="18" PositionY="47"/>
-                    <SummonMonster VNum="219" PositionX="19" PositionY="48"/>
-                    <SummonMonster VNum="219" PositionX="20" PositionY="49"/>
-                    <SummonMonster VNum="219" PositionX="21" PositionY="49"/>
-                    <SummonMonster VNum="219" PositionX="22" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="24" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="26" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="29" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="31" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="36" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="37" PositionY="52"/>
-                    <SummonMonster VNum="219" PositionX="39" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="40" PositionY="52"/>
-                    <SummonMonster VNum="219" PositionX="42" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="44" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="45" PositionY="48"/>
-                    <SummonMonster VNum="219" PositionX="45" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="46" PositionY="48"/>
-                    <SummonMonster VNum="219" PositionX="47" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="48" PositionY="49"/>
-                    <SummonMonster VNum="219" PositionX="49" PositionY="48"/>
-                    <SummonMonster VNum="2371" PositionX="34" PositionY="36"/>
                 </Wave>
                 <Wave Offset="5" Delay="30">
-                    <SummonMonster VNum="163" PositionX="53" PositionY="41"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="39"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="37"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="35"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="33"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="31"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="40"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="38"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="36"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="34"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="32"/>
-                    <SummonMonster VNum="163" PositionX="33" PositionY="18"/>
-                    <SummonMonster VNum="163" PositionX="15" PositionY="39"/>
-                    <SummonMonster VNum="163" PositionX="15" PositionY="37"/>
-                    <SummonMonster VNum="163" PositionX="15" PositionY="34"/>
+                                        <SummonMonster VNum="163" PositionX="53" PositionY="41"/>
                     <SummonMonster VNum="163" PositionX="15" PositionY="33"/>
                     <SummonMonster VNum="163" PositionX="14" PositionY="40"/>
                     <SummonMonster VNum="163" PositionX="14" PositionY="38"/>
@@ -1552,13 +1155,7 @@
                     <SummonMonster VNum="216" PositionX="14" PositionY="31"/>
                     <SummonMonster VNum="216" PositionX="14" PositionY="33"/>
                     <SummonMonster VNum="216" PositionX="14" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="41"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="34"/>
                     <SummonMonster VNum="216" PositionX="15" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="38"/>
                     <SummonMonster VNum="216" PositionX="15" PositionY="40"/>
                     <SummonMonster VNum="216" PositionX="17" PositionY="33"/>
                     <SummonMonster VNum="216" PositionX="17" PositionY="35"/>
@@ -1566,192 +1163,6 @@
                     <SummonMonster VNum="216" PositionX="17" PositionY="39"/>
                     <SummonMonster VNum="216" PositionX="50" PositionY="32"/>
                     <SummonMonster VNum="216" PositionX="50" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="31"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="30"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="40"/>
-                    <SummonMonster VNum="2371" PositionX="38" PositionY="39"/>
-                    <SummonMonster VNum="1438" PositionX="33" PositionY="35"/>
-                    <SummonMonster VNum="2104" PositionX="31" PositionY="39"/>
-                    <SummonMonster VNum="2371" PositionX="34" PositionY="40"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="31"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="41"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="40"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="31"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="30"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="40"/>
-                    <SummonMonster VNum="219" PositionX="18" PositionY="47"/>
-                    <SummonMonster VNum="219" PositionX="19" PositionY="48"/>
-                    <SummonMonster VNum="219" PositionX="20" PositionY="49"/>
-                    <SummonMonster VNum="219" PositionX="21" PositionY="49"/>
-                    <SummonMonster VNum="219" PositionX="22" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="24" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="26" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="29" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="31" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="36" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="37" PositionY="52"/>
-                    <SummonMonster VNum="219" PositionX="39" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="40" PositionY="52"/>
-                    <SummonMonster VNum="219" PositionX="42" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="44" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="45" PositionY="48"/>
-                    <SummonMonster VNum="219" PositionX="45" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="46" PositionY="48"/>
-                    <SummonMonster VNum="219" PositionX="47" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="48" PositionY="49"/>
-                    <SummonMonster VNum="219" PositionX="49" PositionY="48"/>
-                    <SummonMonster VNum="2371" PositionX="34" PositionY="36"/>
-                </Wave>
-                <Wave Offset="6" Delay="30">
-                    <SummonMonster VNum="163" PositionX="53" PositionY="41"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="39"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="37"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="35"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="33"/>
-                    <SummonMonster VNum="163" PositionX="53" PositionY="31"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="40"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="38"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="36"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="34"/>
-                    <SummonMonster VNum="163" PositionX="52" PositionY="32"/>
-                    <SummonMonster VNum="163" PositionX="33" PositionY="18"/>
-                    <SummonMonster VNum="163" PositionX="15" PositionY="39"/>
-                    <SummonMonster VNum="163" PositionX="15" PositionY="37"/>
-                    <SummonMonster VNum="163" PositionX="15" PositionY="34"/>
-                    <SummonMonster VNum="163" PositionX="15" PositionY="33"/>
-                    <SummonMonster VNum="163" PositionX="14" PositionY="40"/>
-                    <SummonMonster VNum="163" PositionX="14" PositionY="38"/>
-                    <SummonMonster VNum="163" PositionX="14" PositionY="36"/>
-                    <SummonMonster VNum="163" PositionX="14" PositionY="34"/>
-                    <SummonMonster VNum="163" PositionX="14" PositionY="32"/>
-                    <SummonMonster VNum="163" PositionX="14" PositionY="30"/>
-                    <SummonMonster VNum="2371" PositionX="36" PositionY="42"/>
-                    <SummonMonster VNum="2371" PositionX="38" PositionY="38"/>
-                    <SummonMonster VNum="2371" PositionX="30" PositionY="35"/>
-                    <SummonMonster VNum="2371" PositionX="36" PositionY="35"/>
-                    <SummonMonster VNum="2371" PositionX="31" PositionY="45"/>
-                    <SummonMonster VNum="1437" PositionX="33" PositionY="36"/>
-                    <SummonMonster VNum="2371" PositionX="38" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="31"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="41"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="40"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="31"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="30"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="40"/>
-                    <SummonMonster VNum="2371" PositionX="38" PositionY="39"/>
-                    <SummonMonster VNum="1438" PositionX="33" PositionY="35"/>
-                    <SummonMonster VNum="2104" PositionX="31" PositionY="39"/>
-                    <SummonMonster VNum="2371" PositionX="34" PositionY="40"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="31"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="14" PositionY="41"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="15" PositionY="40"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="17" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="50" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="31"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="33"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="35"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="37"/>
-                    <SummonMonster VNum="216" PositionX="52" PositionY="39"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="30"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="32"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="34"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="36"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="38"/>
-                    <SummonMonster VNum="216" PositionX="53" PositionY="40"/>
-                    <SummonMonster VNum="219" PositionX="18" PositionY="47"/>
-                    <SummonMonster VNum="219" PositionX="19" PositionY="48"/>
-                    <SummonMonster VNum="219" PositionX="20" PositionY="49"/>
-                    <SummonMonster VNum="219" PositionX="21" PositionY="49"/>
-                    <SummonMonster VNum="219" PositionX="22" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="24" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="26" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="29" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="31" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="36" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="37" PositionY="52"/>
-                    <SummonMonster VNum="219" PositionX="39" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="40" PositionY="52"/>
-                    <SummonMonster VNum="219" PositionX="42" PositionY="51"/>
-                    <SummonMonster VNum="219" PositionX="44" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="45" PositionY="48"/>
-                    <SummonMonster VNum="219" PositionX="45" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="46" PositionY="48"/>
-                    <SummonMonster VNum="219" PositionX="47" PositionY="50"/>
-                    <SummonMonster VNum="219" PositionX="48" PositionY="49"/>
-                    <SummonMonster VNum="219" PositionX="49" PositionY="48"/>
-                    <SummonMonster VNum="2371" PositionX="34" PositionY="36"/>
                 </Wave>
             </OnMoveOnMap>
         </CreateMap>
