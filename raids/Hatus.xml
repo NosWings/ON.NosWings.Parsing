@@ -19,8 +19,6 @@
                 <RefreshMapItems/>
                 <SendMessage Value="Go niquer des meres" Type="0"/>
             </OnLockerOpen>
-            <GenerateClock Value="24000"/>
-            <StartClock/>
             <SpawnPortal IdOnMap="0" PositionX="37" PositionY="157" Type="1" ToMap="1" ToX="33" ToY="60"/>
         </CreateMap>
         <CreateMap Map="1" VNum="138">
