@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Definition>
+    <Globals>
+        <Id Value="0" />
+        <Label Value="Morcos" />
+        <LevelMinimum Value="60"/>
+        <LevelMaximum Value="49"/>
+        <StartX Value="45" />
+        <StartY Value="178" />
+        <Reputation Value="10000" />
+        <GiftItems>
+            <Item Amount="1" VNum="882" Design="50" IsRandomRare="True"/>
+        </GiftItems>
+    </Globals>
+    <InstanceEvents>
+        <CreateMap Map="0" VNum="135">
+            <OnLockerOpen>
+                <ChangePortalType Type="2" IdOnMap="0"/>
+                <RefreshMapItems/>
+                <SendMessage Value="Go niquer des meres" Type="0"/>
+            </OnLockerOpen>
+            <SpawnPortal IdOnMap="0" PositionX="151" PositionY="45" Type="1" ToMap="1" ToX="57" ToY="81"/>
+        </CreateMap>
+        <CreateMap Map="1" VNum="136">
+            <SummonMonster VNum="563" PositionX="56" PositionY="11" IsBoss="True">
+                <OnDeath>
+                    <End Type="1"/>
+                    <ThrowItem VNum="1046" PackAmount="30" MinAmount="20000" MaxAmount="20001"/>
+                </OnDeath>
+            </SummonMonster>
+        </CreateMap>
+    </InstanceEvents>
+</Definition>

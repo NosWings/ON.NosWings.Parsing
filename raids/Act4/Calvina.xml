@@ -2,30 +2,28 @@
 <Definition>
     <Globals>
         <Id Value="0" />
-        <Label Value="Hatus" />
+        <Label Value="Calvina" />
         <LevelMinimum Value="60"/>
         <LevelMaximum Value="49"/>
-        <StartX Value="13" />
-        <StartY Value="11" />
+        <StartX Value="28" />
+        <StartY Value="5" />
         <Reputation Value="10000" />
         <GiftItems>
-            <Item Amount="1" VNum="185" Design="50" IsRandomRare="True"/>
+            <Item Amount="1" VNum="942" Design="50" IsRandomRare="True"/>
         </GiftItems>
     </Globals>
     <InstanceEvents>
-        <CreateMap Map="0" VNum="137">
+        <CreateMap Map="0" VNum="139">
             <OnLockerOpen>
                 <ChangePortalType Type="2" IdOnMap="0"/>
                 <RefreshMapItems/>
                 <SendMessage Value="Go niquer des meres" Type="0"/>
             </OnLockerOpen>
-            <SpawnPortal IdOnMap="0" PositionX="37" PositionY="157" Type="1" ToMap="1" ToX="33" ToY="60"/>
+            <SpawnPortal IdOnMap="0" PositionX="201" PositionY="93" Type="1" ToMap="1" ToX="47" ToY="45"/>
         </CreateMap>
-        <CreateMap Map="1" VNum="138">
-            <SummonMonster VNum="282" PositionX="36" PositionY="18" IsBoss="True">
+        <CreateMap Map="1" VNum="140">
+            <SummonMonster VNum="629" PositionX="26" PositionY="25" IsBoss="True">
                 <OnDeath>
-                    <RemoveMonsterLocker/>
-                    <RefreshRaidGoals/>
                     <End Type="1"/>
                     <ThrowItem VNum="1046" PackAmount="30" MinAmount="20000" MaxAmount="20001"/>
                 </OnDeath>
