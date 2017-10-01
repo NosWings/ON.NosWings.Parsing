@@ -208,8 +208,7 @@
             <SetMonsterLockers Value="10" />
             <SetButtonLockers Value="2" />
             <OnLockerOpen>
-                <ChangePortalType Type="2" IdOnMap="0" />
-                <RefreshMapItems/>
+                <ChangePortalType Type="2" IdOnMap="0" /><RefreshMapItems/>
                 <SendMessage Value="Le portail est ouvert" Type="0" />
             </OnLockerOpen>
             <GenerateClock Value="24000"/><StartClock/>
@@ -225,7 +224,12 @@
                     <RemoveMonsterLocker/>
                     <RefreshRaidGoals/>
                     <End Type="1"/>
-                    <ThrowItem VNum="1046" PackAmount="30" MinAmount="20000" MaxAmount="20001"/>
+					<ThrowItem VNum="1046" PackAmount="8" MinAmount="20000" MaxAmount="20001" />
+					<ThrowItem VNum="2503" PackAmount="5" MinAmount="1" MaxAmount="3" />
+					<ThrowItem VNum="2505" />
+					<ThrowItem VNum="2170" />
+					<ThrowItem VNum="2348" PackAmount="5" MinAmount="1" MaxAmount="2" />
+					<ThrowItem VNum="2349" />
                 </OnDeath>
             </SummonMonster>
             <OnMoveOnMap>
