@@ -2,7 +2,7 @@
 <Definition>
     <Globals>
         <Id Value="15" />
-        <Label Value="grenigas" />
+        <Label Value="Grenigas" />
         <LevelMinimum Value="90"/>
         <LevelMaximum Value="99"/>
         <StartX Value="169" />
@@ -254,11 +254,17 @@
                <SetButtonLockers Value="0" />
            </OnMoveOnMap>
            <SummonMonster VNum="1058" PositionX="43" PositionY="62" IsBoss="True">
-               <OnDeath>
-                   <RemoveMonsterLocker/>
-                   <RefreshRaidGoals/>
-                   <End Type="1"/>
-                   <ThrowItem VNum="1046" PackAmount="30" MinAmount="20000" MaxAmount="20001"/></OnDeath>
+				<OnDeath>
+					<RemoveMonsterLocker/>
+					<RefreshRaidGoals/>
+					<End Type="1"/>
+					<ThrowItem VNum="1046" PackAmount="8" MinAmount="20000" MaxAmount="20001" />
+					<ThrowItem VNum="2503" PackAmount="5" MinAmount="1" MaxAmount="3" />
+					<ThrowItem VNum="2505" />
+					<ThrowItem VNum="2170" />
+					<ThrowItem VNum="2348" PackAmount="5" MinAmount="1" MaxAmount="2" />
+					<ThrowItem VNum="2349" />
+				</OnDeath>
            </SummonMonster>
         <SummonMonster VNum="1054" PositionX="51" PositionY="43"/>
            <OnMoveOnMap>
