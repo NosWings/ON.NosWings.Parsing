@@ -107,8 +107,8 @@
                 <RefreshRaidGoals/>
             </OnFirstEnable>
         </SpawnButton>
-            <SetMonsterLockers Value="3" />
-            <SetButtonLockers Value="3" />
+            <SetMonsterLockers Value="2" />
+            <SetButtonLockers Value="2" />
             <OnLockerOpen>
                 <ChangePortalType Type="2" IdOnMap="0" /><RefreshMapItems/>
                 <SendMessage Value="Le portail est ouvert" Type="0" />
@@ -239,8 +239,8 @@
                <RefreshRaidGoals/>
            </OnFirstEnable>
        </SpawnButton>
-           <SetMonsterLockers Value="2" />
-           <SetButtonLockers Value="2" />
+           <SetMonsterLockers Value="3" />
+           <SetButtonLockers Value="3" />
            <OnLockerOpen>
                <ChangePortalType Type="2" IdOnMap="0" /><RefreshMapItems/>
                <SendMessage Value="Le portail est ouvert" Type="0" />
