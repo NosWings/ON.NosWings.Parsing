@@ -4,7 +4,7 @@
     <Id Value="13" />
     <Label Value="Kertos le chien démon" />
     <LevelMinimum Value="90" />
-    <LevelMaximum Value="99" />
+    <LevelMaximum Value="150" />
     <StartX Value="31" />
     <StartY Value="178" />
     <RequieredItems>

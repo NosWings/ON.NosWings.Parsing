@@ -4,7 +4,7 @@
         <Id Value="15" />
         <Label Value="Grenigas" />
         <LevelMinimum Value="90"/>
-        <LevelMaximum Value="99"/>
+        <LevelMaximum Value="150"/>
         <StartX Value="169" />
         <StartY Value="182" />
         <RequieredItems>

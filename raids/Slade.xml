@@ -4,7 +4,7 @@
         <Id Value="4" />
         <Label Value="Slade" />
         <LevelMinimum Value="70"/>
-        <LevelMaximum Value="99"/>
+        <LevelMaximum Value="150"/>
         <StartX Value="21" />
         <StartY Value="229" />
         <RequieredItems>

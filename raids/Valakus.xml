@@ -4,7 +4,7 @@
         <Id Value="0" />
         <Label Value="Valakus" />
         <LevelMinimum Value="90"/>
-        <LevelMaximum Value="99"/>
+        <LevelMaximum Value="150"/>
         <StartX Value="178" />
         <StartY Value="178" />
         <RequieredItems>

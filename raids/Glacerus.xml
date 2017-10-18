@@ -4,7 +4,7 @@
     <Id Value="17" />
     <Label Value="'Glacerus le rude" />
     <LevelMinimum Value="75"/>
-    <LevelMaximum Value="99"/>
+    <LevelMaximum Value="150"/>
     <StartX Value="12" />
     <StartY Value="38" />
       <Reputation Value="3500" />

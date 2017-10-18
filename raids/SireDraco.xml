@@ -4,7 +4,7 @@
     <Id Value="16" />
     <Label Value="Sire Draco" />
     <LevelMinimum Value="75"/>
-    <LevelMaximum Value="99"/>
+    <LevelMaximum Value="150"/>
     <StartX Value="15" />
     <StartY Value="1" />
     <RequieredItems>
