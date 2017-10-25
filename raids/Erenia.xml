@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definition>
+    <Globals>
+        <Id Value="0" />
+        <Label Value="Raid Erenia" />
+        <LevelMinimum Value="130"/>
+        <LevelMaximum Value="150"/>
+        <StartX Value="159" />
+        <StartY Value="174" />
+        <Reputation Value="40000" />
+        <RequieredItems>
+            <Item VNum="5882" Amount="1"/>
+        </RequieredItems>
+        <GiftItems>
+            <Item Amount="1" VNum="302" Design="24" IsRandomRare="True"/>
+        </GiftItems>
+    </Globals>
+    <InstanceEvents>
+        <CreateMap Map="0" VNum="2605">
+            <OnMoveOnMap>
+                <SetMonsterLockers Value="1" />
+                <SetButtonLockers Value="0" />
+                <RefreshRaidGoals/>
+            </OnMoveOnMap>
+            <SummonMonster VNum="2514" PositionX="159" PositionY="128" IsBoss="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                    <End Type="1"/>
+                    <ThrowItem VNum="1046" PackAmount="30" MinAmount="100000" MaxAmount="150000"/>
+                </OnDeath>
+            </SummonMonster>
+        </CreateMap>
+    </InstanceEvents>
+</Definition>
