@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Definition>
     <Globals>
-        <Id Value="24" />
-        <Label Value="Raid Erenia" />
-        <LevelMinimum Value="130"/>
+        <Id Value="26" />
+        <Label Value="Raid Fafnir" />
+        <LevelMinimum Value="145"/>
         <LevelMaximum Value="150"/>
-        <StartX Value="159" />
-        <StartY Value="174" />
+        <StartX Value="104" />
+        <StartY Value="76" />
         <Reputation Value="40000" />
         <RequieredItems>
-            <Item VNum="5882" Amount="1"/>
+            <Item VNum="5857" Amount="1"/>
         </RequieredItems>
         <GiftItems>
-            <Item Amount="1" VNum="302" Design="24" IsRandomRare="True"/>
+            <Item Amount="1" VNum="302" Design="26" IsRandomRare="True"/>
         </GiftItems>
     </Globals>
     <InstanceEvents>
-        <CreateMap Map="0" VNum="2605">
+        <CreateMap Map="0" VNum="2610">
             <OnMoveOnMap>
                 <SetMonsterLockers Value="1" />
                 <SetButtonLockers Value="0" />
                 <RefreshRaidGoals/>
             </OnMoveOnMap>
-            <SummonMonster VNum="2514" PositionX="159" PositionY="128" IsBoss="True">
+            <SummonMonster VNum="2619" PositionX="88" PositionY="67" IsBoss="True">
                 <OnDeath>
                     <RemoveMonsterLocker/>
                     <RefreshRaidGoals/>
