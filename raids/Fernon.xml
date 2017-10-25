@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Definition>
     <Globals>
-        <Id Value="26" />
-        <Label Value="Raid Fafnir" />
+        <Id Value="25" />
+        <Label Value="Raid Fernon" />
         <LevelMinimum Value="145"/>
         <LevelMaximum Value="150"/>
-        <StartX Value="104" />
-        <StartY Value="76" />
+        <StartX Value="145" />
+        <StartY Value="218" />
         <Reputation Value="50000" />
         <RequieredItems>
-            <Item VNum="5857" Amount="1"/>
+            <Item VNum="5858" Amount="1"/>
         </RequieredItems>
         <GiftItems>
-            <Item Amount="1" VNum="302" Design="26" IsRandomRare="True"/>
+            <Item Amount="1" VNum="302" Design="25" IsRandomRare="True"/>
         </GiftItems>
     </Globals>
     <InstanceEvents>
-        <CreateMap Map="0" VNum="2610">
+        <CreateMap Map="0" VNum="247">
             <OnMoveOnMap>
                 <SetMonsterLockers Value="1" />
                 <SetButtonLockers Value="0" />
                 <RefreshRaidGoals/>
             </OnMoveOnMap>
-            <SummonMonster VNum="2619" PositionX="88" PositionY="67" IsBoss="True">
+            <SummonMonster VNum="2574" PositionX="144" PositionY="90" IsBoss="True">
                 <OnDeath>
                     <RemoveMonsterLocker/>
                     <RefreshRaidGoals/>
