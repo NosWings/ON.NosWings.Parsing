@@ -13,6 +13,7 @@
         </RequieredItems>
         <GiftItems>
             <Item Amount="1" VNum="302" Design="23" IsRandomRare="True"/>
+			<Item Amount="1" VNum="2427" Design="0" IsRandomRare="False"/>
         </GiftItems>
     </Globals>
     <InstanceEvents>
