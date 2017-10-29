@@ -42,7 +42,7 @@ UPDATE NpcMonster
 	-- Speed = '0',
 	-- VNumRequired = '0',
 	-- WaterResistance = '0',
-	XP = '68220',
+	XP = '68220'
 	-- HeroXp = ''
 
 WHERE NpcMonsterVNum = 2525 ;
@@ -91,7 +91,7 @@ UPDATE NpcMonster
 	-- Speed = '0',
 	-- VNumRequired = '0',
 	-- WaterResistance = '0',
-	XP = '112380',
+	XP = '112380'
 	-- HeroXp = ''
 
 WHERE NpcMonsterVNum = 2512 ;
@@ -140,7 +140,7 @@ UPDATE NpcMonster
 	-- Speed = '0',
 	-- VNumRequired = '0',
 	-- WaterResistance = '0',
-	XP = '352380',
+	XP = '352380'
 	-- HeroXp = ''
 
 WHERE NpcMonsterVNum = 2520 ;
@@ -189,7 +189,7 @@ UPDATE NpcMonster
 	-- Speed = '0',
 	-- VNumRequired = '0',
 	-- WaterResistance = '0',
-	XP = '128760',
+	XP = '128760'
 	-- HeroXp = ''
 
 WHERE NpcMonsterVNum = 2513 ;
@@ -238,7 +238,7 @@ UPDATE NpcMonster
 	-- Speed = '0',
 	-- VNumRequired = '0',
 	-- WaterResistance = '0',
-	XP = '1551300',
+	XP = '1551300'
 	-- HeroXp = ''
 
 WHERE NpcMonsterVNum = 2527 ;
@@ -287,7 +287,7 @@ UPDATE NpcMonster
 	-- Speed = '0',
 	-- VNumRequired = '0',
 	-- WaterResistance = '0',
-	XP = '111300',
+	XP = '111300'
 	-- HeroXp = ''
 
 WHERE NpcMonsterVNum = 2511 ;
@@ -336,7 +336,7 @@ UPDATE NpcMonster
 	-- Speed = '0',
 	-- VNumRequired = '0',
 	-- WaterResistance = '0',
-	XP = '111840',
+	XP = '111840'
 	-- HeroXp = ''
 
 WHERE NpcMonsterVNum = 2510 ;
@@ -385,7 +385,7 @@ UPDATE NpcMonster
 	-- Speed = '0',
 	-- VNumRequired = '0',
 	-- WaterResistance = '0',
-	XP = '1102920',
+	XP = '1102920'
 	-- HeroXp = ''
 
 WHERE NpcMonsterVNum = 2524 ;
@@ -434,7 +434,7 @@ UPDATE NpcMonster
 	-- Speed = '0',
 	-- VNumRequired = '0',
 	-- WaterResistance = '0',
-	XP = '2452920',
+	XP = '2452920'
 	-- HeroXp = ''
 
 WHERE NpcMonsterVNum = 2530 ;
@@ -483,7 +483,7 @@ UPDATE NpcMonster
 	-- Speed = '0',
 	-- VNumRequired = '0',
 	-- WaterResistance = '0',
-	XP = '72600',
+	XP = '72600'
 	-- HeroXp = ''
 
 WHERE NpcMonsterVNum = 2522 ;
@@ -532,7 +532,7 @@ UPDATE NpcMonster
 	-- Speed = '0',
 	-- VNumRequired = '0',
 	-- WaterResistance = '0',
-	XP = '111840',
+	XP = '111840'
 	-- HeroXp = ''
 
 WHERE NpcMonsterVNum = 2501 ;
@@ -581,7 +581,7 @@ UPDATE NpcMonster
 	-- Speed = '0',
 	-- VNumRequired = '0',
 	-- WaterResistance = '0',
-	XP = '112380',
+	XP = '112380'
 	-- HeroXp = ''
 
 WHERE NpcMonsterVNum = 2502 ;
@@ -630,7 +630,7 @@ UPDATE NpcMonster
 	-- Speed = '0',
 	-- VNumRequired = '0',
 	-- WaterResistance = '0',
-	XP = '79680',
+	XP = '79680'
 	-- HeroXp = ''
 
 WHERE NpcMonsterVNum = 2523 ;
@@ -679,7 +679,7 @@ UPDATE NpcMonster
 	-- Speed = '0',
 	-- VNumRequired = '0',
 	-- WaterResistance = '0',
-	XP = '111300',
+	XP = '111300'
 	-- HeroXp = ''
 
 WHERE NpcMonsterVNum = 2500 ;
@@ -728,7 +728,7 @@ UPDATE NpcMonster
 	-- Speed = '0',
 	-- VNumRequired = '0',
 	-- WaterResistance = '0',
-	XP = '65520',
+	XP = '65520'
 	-- HeroXp = ''
 
 WHERE NpcMonsterVNum = 2521 ;
@@ -777,7 +777,7 @@ UPDATE NpcMonster
 	-- Speed = '0',
 	-- VNumRequired = '0',
 	-- WaterResistance = '0',
-	XP = '123840',
+	XP = '123840'
 	-- HeroXp = ''
 
 WHERE NpcMonsterVNum = 2503 ;
@@ -826,7 +826,7 @@ UPDATE NpcMonster
 	-- Speed = '0',
 	-- VNumRequired = '0',
 	-- WaterResistance = '0',
-	XP = '351840',
+	XP = '351840'
 	-- HeroXp = ''
 
 WHERE NpcMonsterVNum = 2515 ;
@@ -875,7 +875,7 @@ UPDATE NpcMonster
 	-- Speed = '0',
 	-- VNumRequired = '0',
 	-- WaterResistance = '0',
-	XP = '81300',
+	XP = '81300'
 	-- HeroXp = ''
 
 WHERE NpcMonsterVNum = 2547 ;
