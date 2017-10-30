@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Definition>
     <Globals>
-        <Id Value="0" />
+        <Id Value="10" />
         <Label Value="Raid Jack O'Lantern" />
         <LevelMinimum Value="20"/>
         <LevelMaximum Value="99"/>
@@ -12,7 +12,7 @@
             <Item VNum="1916" Amount="1"/>
         </RequieredItems>
         <GiftItems>
-            <Item Amount="1" VNum="302" Design="18" IsRandomRare="True"/>
+            <Item Amount="1" VNum="302" Design="10" IsRandomRare="True"/>
         </GiftItems>
     </Globals>
     <InstanceEvents>
