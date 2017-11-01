@@ -41,7 +41,4 @@ VALUES
     ('10', '2431', @SM), -- S M
    
     
-    ('10', '2431', @TM), -- T M
-    
-    
-    ('3', '2608', @MolaireFaf); -- Molaire de fafnir
+    ('10', '2431', @TM); -- T M

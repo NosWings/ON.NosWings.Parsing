@@ -12,6 +12,4 @@ VALUES
     ('1', '4984', @Craft), -- E
     ('1', '4982', @Craft), -- M
     ('1', '4979', @Craft), -- M
-    ('1', '4985', @Craft), -- M
-    
-    ('1', '2431', @Craft); -- Oeuf de fernon
+    ('1', '4985', @Craft); -- M
