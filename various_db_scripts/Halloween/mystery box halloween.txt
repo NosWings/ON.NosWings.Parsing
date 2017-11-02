@@ -1,0 +1,42 @@
+/* NOSMALL */
+DECLARE @BoxId SMALLINT = 5968
+
+DECLARE @SPartenaireFoxy SMALLINT = 4807
+DECLARE @SPartenaireFiona SMALLINT = 4818
+DECLARE @ChapeauCitrouillePerma SMALLINT = 4124
+DECLARE @ChapeauCitrouilleIncaPerma SMALLINT = 4172
+DECLARE @SuperRatufuCourge SMALLINT = 4066
+DECLARE @RatufuCourge SMALLINT = 950 
+DECLARE @BonbonJ SMALLINT = 2322
+DECLARE @BonbonN SMALLINT = 2324
+DECLARE @BasketPet SMALLINT = 1279
+DECLARE @FriendWings SMALLINT = 2160
+DECLARE @SpecialPotion SMALLINT = 1119
+DECLARE @ReinforcementAmulet SMALLINT = 284
+DECLARE @GuardianAngel SMALLINT = 1285
+DECLARE @TarotPack SMALLINT = 1904
+DECLARE @ReinforcementFairy SMALLINT = 1296
+
+
+INSERT INTO [opennos].[dbo].[RollGeneratedItem] (
+	[OriginalItemDesign],	[OriginalItemVNum],
+	[Probability],	[ItemGeneratedAmount],	[ItemGeneratedVNum],
+	[IsRareRandom],	[MinimumOriginalItemRare],	[MaximumOriginalItemRare],
+	[IsSuperReward],	[ItemGeneratedUpgrade]
+)
+VALUES
+	('0', @BoxId,	'1', '1', @SPartenaireFoxy, '0', '0', '0', '1', '0'),
+	('0', @BoxId,	'1', '1', @SPartenaireFiona, '0', '0', '0', '1', '0'),
+	('0', @BoxId,	'2', '1', @ChapeauCitrouillePerma, '0', '0', '0', '0', '0'),
+	('0', @BoxId,	'2', '1', @ChapeauCitrouilleIncaPerma, '0', '0', '0', '0', '0'),
+	('0', @BoxId,	'1', '1', @SuperRatufuCourge, '0', '0', '0', '1', '0'),
+	('0', @BoxId,	'2', '1', @RatufuCourge, '0', '0', '0', '0', '0'),
+	('0', @BoxId,	'20', '50', @BonbonJ, '0', '0', '0', '0', '0'),
+	('0', @BoxId,	'20', '35', @BonbonN, '0', '0', '0', '0', '0'),
+	('0', @BoxId,	'20', '1', @BasketPet, '0', '0', '0', '0', '0'),
+	('0', @BoxId,	'20', '40', @FriendWings, '0', '0', '0', '0', '0'),
+	('0', @BoxId,	'20', '1', @SpecialPotion, '0', '0', '0', '0', '0'),
+	('0', @BoxId,	'20', '1', @ReinforcementAmulet, '0', '0', '0', '0', '0'),
+	('0', @BoxId,	'20', '16', @GuardianAngel, '0', '0', '0', '0', '0'),
+	('0', @BoxId,	'20', '1', @TarotPack, '0', '0', '0', '0', '0'),
+	('0', @BoxId,	'20', '10', @ReinforcementFairy, '0', '0', '0', '0', '0');
