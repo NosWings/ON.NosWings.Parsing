@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Definition>
     <Globals>
-        <Id Value="0" />
+        <Id Value="10" />
         <Label Value="Raid Jack O'Lantern" />
         <LevelMinimum Value="20"/>
         <LevelMaximum Value="99"/>
