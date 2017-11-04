@@ -200,7 +200,6 @@
                 <SummonMonster VNum="1437" PositionX="89" PositionY="58"/>
                 <SummonMonster VNum="1919" PositionX="106" PositionY="28"/>
                 <SummonMonster VNum="1919" PositionX="88" PositionY="58"/>
-                <SummonMonster VNum="1436" PositionX="156" PositionY="27"/>
                 <RemoveButtonLocker/>
                 <RefreshRaidGoals/>
             </OnFirstEnable>

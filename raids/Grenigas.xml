@@ -101,8 +101,6 @@
                 </OnFirstEnable>
             </SpawnButton><SpawnButton PositionY="31" PositionX="147" VNumDisabled="1135" VNumEnabled="1136" Id="1">
             <OnFirstEnable>
-                <SummonMonster VNum="1439" PositionX="98" PositionY="69"/>
-                <SummonMonster VNum="1439" PositionX="95" PositionY="66"/>
                 <RemoveButtonLocker/>
                 <RefreshRaidGoals/>
             </OnFirstEnable>
@@ -216,25 +214,9 @@
            </OnFirstEnable>
        </SpawnButton><SpawnButton PositionY="168" PositionX="165" VNumDisabled="1135" VNumEnabled="1136" Id="2">
            <OnFirstEnable>
-               <SummonMonster VNum="946" PositionX="30" PositionY="157"/>
-               <SummonMonster VNum="946" PositionX="30" PositionY="159"/>
-               <SummonMonster VNum="946" PositionX="32" PositionY="159"/>
-               <SummonMonster VNum="1439" PositionX="31" PositionY="152"/>
                <SummonMonster VNum="1437" PositionX="30" PositionY="151"/>
                <SummonMonster VNum="1437" PositionX="26" PositionY="155"/>
-               <SummonMonster VNum="1439" PositionX="29" PositionY="155"/>
-               <SummonMonster VNum="946" PositionX="52" PositionY="158"/>
-               <SummonMonster VNum="946" PositionX="52" PositionY="156"/>
-               <SummonMonster VNum="946" PositionX="53" PositionY="157"/>
-               <SummonMonster VNum="1439" PositionX="144" PositionY="102"/>
-               <SummonMonster VNum="946" PositionX="145" PositionY="108"/>
-               <SummonMonster VNum="946" PositionX="146" PositionY="109"/>
-               <SummonMonster VNum="946" PositionX="145" PositionY="108"/>
                <SummonMonster VNum="1437" PositionX="144" PositionY="102"/>
-               <SummonMonster VNum="1439" PositionX="146" PositionY="101"/>
-               <SummonMonster VNum="946" PositionX="146" PositionY="104"/>
-               <SummonMonster VNum="946" PositionX="147" PositionY="106"/>
-               <SummonMonster VNum="946" PositionX="146" PositionY="106"/>
                <RemoveButtonLocker/>
                <RefreshRaidGoals/>
            </OnFirstEnable>
