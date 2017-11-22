@@ -37,6 +37,16 @@
                 </OnDeath>
             </SummonMonster>
 
+            <Wave Offset="0" Delay="90">
+                <SendMessage Value="The enemies are getting reinforcements!" Type="0"/>
+                <SummonMonster VNum="561" PositionX="37" PositionY="25"/>
+                <SummonMonster VNum="561" PositionX="49" PositionY="35"/>
+                <SummonMonster VNum="561" PositionX="63" PositionY="24"/>
+                <SummonMonster VNum="562" PositionX="41" PositionY="33"/>
+                <SummonMonster VNum="562" PositionX="56" PositionY="34"/>
+                <SummonMonster VNum="562" PositionX="67" PositionY="24"/>
+	        </Wave>
+
         </CreateMap>
     </InstanceEvents>
 </Definition>

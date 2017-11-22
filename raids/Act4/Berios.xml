@@ -37,6 +37,14 @@
                 </OnDeath>
             </SummonMonster>
 
+            <Wave Offset="0" Delay="90">
+                <SendMessage Value="The enemies are getting reinforcements!" Type="0"/>
+                <SummonMonsters VNum="780" Amount="1"/> <!-- Random Pos -->
+                <SummonMonsters VNum="781" Amount="1"/>
+                <SummonMonsters VNum="782" Amount="2"/>
+                <SummonMonsters VNum="783" Amount="2"/>
+	        </Wave>
+
         </CreateMap>
     </InstanceEvents>
 </Definition>

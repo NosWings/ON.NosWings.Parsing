@@ -35,7 +35,13 @@
                     <ThrowItem VNum="1009" PackAmount="5" MinAmount="3" MaxAmount="4"/> <!-- Medium Recovery Potion -->
                     <ThrowItem VNum="1011" PackAmount="5" MinAmount="3" MaxAmount="4"/> <!-- Huge Recovery Potion -->
                 </OnDeath>
-            </SummonMonster>
+           </SummonMonster>
+
+            <Wave Offset="0" Delay="90">
+                <SendMessage Value="The enemies are getting reinforcements!" Type="0"/>
+                <SummonMonsters VNum="770" Amount="3"/> <!-- Random Pos -->
+                <SummonMonsters VNum="771" Amount="3"/>
+	        </Wave>
 
         </CreateMap>
     </InstanceEvents>
