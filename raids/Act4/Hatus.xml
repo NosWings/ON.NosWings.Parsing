@@ -3,7 +3,7 @@
     <Globals>
         <Id Value="1" />
         <Label Value="Hatus" />
-        <LevelMinimum Value="0"/>
+        <LevelMinimum Value="60"/>
         <LevelMaximum Value="99"/>
         <StartX Value="14" />
         <StartY Value="6" />

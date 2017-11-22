@@ -3,7 +3,7 @@
     <Globals>
         <Id Value="0" />
         <Label Value="Morcos" />
-        <LevelMinimum Value="0"/>
+        <LevelMinimum Value="60"/>
         <LevelMaximum Value="99"/>
         <StartX Value="40" />
         <StartY Value="177" />

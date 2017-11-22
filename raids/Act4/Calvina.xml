@@ -3,7 +3,7 @@
     <Globals>
         <Id Value="2" />
         <Label Value="Calvina" />
-        <LevelMinimum Value="0"/>
+        <LevelMinimum Value="60"/>
         <LevelMaximum Value="99"/>
         <StartX Value="26" />
         <StartY Value="7" />
