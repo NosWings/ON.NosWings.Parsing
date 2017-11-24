@@ -18,11 +18,8 @@
     </Globals>
     <InstanceEvents>
         <CreateMap Map="0" VNum="247">
-            <OnMoveOnMap>
                 <SetMonsterLockers Value="1" />
                 <SetButtonLockers Value="0" />
-                <RefreshRaidGoals/>
-            </OnMoveOnMap>
             <SummonMonster VNum="2574" PositionX="144" PositionY="90" IsBoss="True">
                 <OnDeath>
                     <RemoveMonsterLocker/>

@@ -231,10 +231,8 @@
            <SpawnPortal IdOnMap="0" PositionX="48" PositionY="8" Type="1" ToMap="2" ToX="50" ToY="89" />
        </CreateMap>
        <CreateMap Map="2" VNum="213" >
-           <OnMoveOnMap>
                <SetMonsterLockers Value="1" />
                <SetButtonLockers Value="0" />
-           </OnMoveOnMap>
            <SummonMonster VNum="1058" PositionX="43" PositionY="62" IsBoss="True">
 				<OnDeath>
 					<RemoveMonsterLocker/>
@@ -249,7 +247,6 @@
 				</OnDeath>
            </SummonMonster>
         <SummonMonster VNum="1054" PositionX="51" PositionY="43"/>
-           <OnMoveOnMap>
                <Wave Offset="1" Delay="30">
                    <SummonMonster VNum="1055" PositionX="18" PositionY="47"/>
                    <SummonMonster VNum="1055" PositionX="33" PositionY="60"/>
@@ -260,7 +257,6 @@
                    <SummonMonster VNum="1056" PositionX="18" PositionY="51"/>
                    <SummonMonster VNum="1927" PositionX="29" PositionY="73"/>
                </Wave>
-           </OnMoveOnMap>
        </CreateMap>
     </InstanceEvents>
 </Definition>

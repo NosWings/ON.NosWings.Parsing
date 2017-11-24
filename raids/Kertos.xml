@@ -147,11 +147,9 @@
       </SummonMonster>
       <SummonMonster VNum="1915" PositionX="32" PositionY="16" IsTarget="false" IsHostile="true" Move="true" />
       <SummonMonster VNum="1915" PositionX="20" PositionY="23" IsTarget="false" IsHostile="true" Move="true" />
-      <OnMoveMap>
         <SetMonsterLockers Value="1" />
         <SetButtonLockers Value="0" />
         <RefreshRaidGoals />
-      </OnMoveMap>
     </CreateMap>
   </InstanceEvents>
 </Definition>
