@@ -15,9 +15,9 @@
     <InstanceEvents>
         <CreateMap Map="0" VNum="135">
 
-            <SpawnPortal IdOnMap="0" PositionX="40" PositionY="177" Type="0" ToMap="134" ToX="139" ToY="100"/> <!-- PortalToAct4 -->
+            <SpawnPortal IdOnMap="0" PositionX="40" PositionY="177" Type="0" ToMap="0" ToX="139" ToY="100"/> <!-- PortalToAct4 -->
             
-            <OnTimeElapsed value="1800">
+            <OnTimeElapsed Value="1800">
                 <SpawnPortal IdOnMap="1" PositionX="151" PositionY="45" Type="2" ToMap="1" ToX="55" ToY="80"/> <!-- PortalToBoss -->
                 <RefreshMapItems/>
             </OnTimeElapsed>
