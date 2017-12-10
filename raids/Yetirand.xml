@@ -17,7 +17,6 @@
     </Globals>
     <InstanceEvents>
         <CreateMap Map="0" VNum="2621">
-            <OnCharacterDiscoveringMap>
                 <SpawnPortal IdOnMap="0" PositionX="213" PositionY="194" Type="0" ToMap="0" ToX="195" ToY="209"/>
                 <SpawnPortal IdOnMap="1" PositionX="195" PositionY="209" Type="0" ToMap="0" ToX="213" ToY="194"/>
                 <SpawnPortal IdOnMap="2" PositionX="16" PositionY="194" Type="0" ToMap="0" ToX="72" ToY="259"/>
@@ -35,7 +34,6 @@
                         <End Type="1"/>
                     </OnTimeout>
                 </StartMapClock>
-            </OnCharacterDiscoveringMap>
             <SetMonsterLockers Value="0" />
             <SetButtonLockers Value="1" />
             <SpawnButton PositionY="-1" PositionX="-1" VNumDisabled="1135" VNumEnabled="1136" Id="1">
