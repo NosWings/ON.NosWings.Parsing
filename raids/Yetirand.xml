@@ -55,7 +55,7 @@
         <CreateMap Map="1" VNum="2622">
             <SetMonsterLockers Value="1" />
             <SetButtonLockers Value="0" />
-            <SummonMonster VNum="2662" PositionX="57" PositionY="65"/>
+            <SummonMonster VNum="2662" PositionX="100" PositionY="100"/>
             <SummonMonster VNum="2639" PositionX="120" PositionY="106" IsBoss="True">
                 <OnDeath>
                     <RemoveMonsterLocker/>
