@@ -28,10 +28,10 @@
             <OnCharacterDiscoveringMap>
                 <GenerateMapClock Value="3000"/>
                 <StartMapClock>
+                    <OnStop>
+                        <RefreshMapItems/>
+                    </OnStop>
                     <OnTimeout>
-                        <OnStop>
-                            <RefreshMapItems/>
-                        </OnStop>
                         <End Type="1"/>
                     </OnTimeout>
                 </StartMapClock>
