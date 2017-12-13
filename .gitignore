@@ -7,3 +7,5 @@ dbnavigator.xml
 vcs.xml
 *.lst
 *_nosmall.dat
+*_nosmall.txt
+*_abuse.lst
