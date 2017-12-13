@@ -15,6 +15,8 @@ VALUES
 (@DefaultIndex, @DefaultMapId, '5980', '22', '72', @DefaultType),
 (@DefaultIndex, @DefaultMapId, '6132', '90', '11', @DefaultType),
 (@DefaultIndex, @DefaultMapId, '6133', '18', '12', @DefaultType),
+(@DefaultIndex, @DefaultMapId, '6134', '38', '22', @DefaultType),
+(@DefaultIndex, @DefaultMapId, '6135', '29', '45', @DefaultType),
 (@DefaultIndex, @DefaultMapId, '7132', '44', '45', @DefaultType),
 (@DefaultIndex, @DefaultMapId, '7133', '41', '32', @DefaultType),
 (@DefaultIndex, @DefaultMapId, '7134', '43', '78', @DefaultType),
