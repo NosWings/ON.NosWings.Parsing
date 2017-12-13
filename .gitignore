@@ -5,3 +5,5 @@ modules.xml
 dbnavigator.xml
 *.wml
 vcs.xml
+*.lst
+*_nosmall.dat
