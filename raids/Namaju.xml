@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Definition>
+    <Globals>
+    <Label Value="Raid Namaju" />
+    <LevelMinimum Value="40"/>
+    <LevelMaximum Value="99"/>
+    </Globals>
+</Definition>
