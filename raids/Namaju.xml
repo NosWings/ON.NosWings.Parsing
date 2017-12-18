@@ -5,6 +5,8 @@
     <Label Value="Raid Namaju" />
     <LevelMinimum Value="50"/>
     <LevelMaximum Value="99"/>
+    <StartX Value="126">
+    <StartY Value="67">
     <RequieredItems>
       <Item VNum="1226" Amount="1"/>
     </RequieredItems>
