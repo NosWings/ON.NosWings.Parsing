@@ -12,4 +12,18 @@
         <Item Amount="1" VNum="302" Design="0" IsRandomRare="False"/>
     </GiftItems>
     </Globals>
+    <InstanceEvents>
+        <CreateMap Map="0" VNum="2561">
+        </CreateMap>
+        <CreateMap Map="1" VNum="2562">
+        </CreateMap>
+        <CreateMap Map="2" VNum="2563">
+        </CreateMap>
+        <CreateMap Map="3" VNum="2564">
+        </CreateMap>
+        <CreateMap Map="4" VNum="2565">
+        </CreateMap>
+        <CreateMap Map="5" VNum="2566">
+        </CreateMap>        
+    </InstanceEvents>
 </Definition>
