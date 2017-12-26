@@ -47,9 +47,9 @@ VALUES
     (@NpcId + 2, '0', 'Boutique de mode', '5'), /* soraya */
     (@NpcId + 3, '0', 'Alchimiste', '7'), /* malcolm */
     (@NpcId + 4, '0', 'NosBazar', '45'), /* bibi bazar */
-    (@NpcId + 5, '0', '[ Stuff Archer ]', '6'), /* stuff Archer */
-    (@NpcId + 6, '0', '[ Stuff Mage ]', '6'), /* stuff Mage */
-    (@NpcId + 7, '0', '[ Stuff SwordMan ]', '6'), /* stuff SwordMan */
+    (@NpcId + 5, '0', '[ Stuff Archer ]', '8'), /* stuff Archer */
+    (@NpcId + 6, '0', '[ Stuff Mage ]', '8'), /* stuff Mage */
+    (@NpcId + 7, '0', '[ Stuff SwordMan ]', '8'), /* stuff SwordMan */
     (@NpcId + 8, '0', '[ NosWings Shop ]', '8'), /* NosWings Shop */
     (@NpcId + 9, '0', '[ NosWings Raid ]', '8'), /* Raids */
     (@NpcId + 10, '0', 'Cercle de temps', '0'), /* Titus Trip */
