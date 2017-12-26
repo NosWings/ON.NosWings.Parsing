@@ -2,7 +2,7 @@ DECLARE @NpcId INT = 21030
 DECLARE @LobbyMapId SMALLINT = 248
 
 /*
-** NPCs
+* NPCs
 */
 INSERT INTO [opennos].[dbo].[MapNpc] (
 	[MapNpcId], [Dialog], [Effect], [EffectDelay], [IsDisabled], [IsMoving], [IsSitting],
@@ -208,7 +208,7 @@ VALUES
     ('1', '4984', @NpcId + 23), -- E
     ('1', '4982', @NpcId + 23), -- M
     ('1', '4979', @NpcId + 23), -- M
-    ('1', '4985', @NpcId + 23); -- M
+    ('1', '4985', @NpcId + 23), -- M
 
     /* Alchemist */
     ('5', '5929', @NpcId + 3),
@@ -229,4 +229,4 @@ VALUES
     ('10', '1243', @NpcId + 3),
     ('10', '1244', @NpcId + 3),
     ('1', '2504', @NpcId + 3),
-    ('1', '2505', @NpcId + 3),
+    ('1', '2505', @NpcId + 3);
