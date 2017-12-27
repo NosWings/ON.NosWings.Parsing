@@ -10,6 +10,7 @@ DECLARE @Stuff150 SMALLINT = @Stuff130 + 9
 DECLARE @H28A SMALLINT = @Stuff150 + 11
 DECLARE @H28D SMALLINT = @H28A + 10
 DECLARE @H68 SMALLINT = @H28D + 10
+DECLARE @Alchemist SMALLINT = @H68 + 9
 
 INSERT INTO [opennos].[dbo].[RecipeItem] (
 		[Amount], 
@@ -270,4 +271,73 @@ VALUES
     ('10', '2431', @H68 + 5), -- T E
     ('10', '2431', @H68 + 6), -- P M
     ('10', '2431', @H68 + 7), -- S M
-    ('10', '2431', @H68 + 8); -- T M
+    ('10', '2431', @H68 + 8), -- T M
+
+    /*
+    * Alchemist
+    */
+    ('3' , '2029' , @Alchemist),
+    ('5' , '2097' , @Alchemist),
+    ('10' , '2098' , @Alchemist),
+    ('5' , '2099' , @Alchemist),
+    ('5' , '2029' , @Alchemist +1),
+    ('8' , '2097' , @Alchemist +1),
+    ('15' , '2098' , @Alchemist +1),
+    ('10' , '2099' , @Alchemist +1),
+    ('10' , '2029' , @Alchemist +2),
+    ('10' , '2097' , @Alchemist +2),
+    ('20' , '2098' , @Alchemist +2),
+    ('18' , '2099' , @Alchemist +2),
+    ('3' , '2029' , @Alchemist +3),
+    ('5' , '2097' , @Alchemist +3),
+    ('10' , '2098' , @Alchemist +3),
+    ('5' , '2100' , @Alchemist +3),
+    ('5' , '2029' , @Alchemist +4),
+    ('8' , '2097' , @Alchemist +4),
+    ('15' , '2098' , @Alchemist +4),
+    ('10' , '2100' , @Alchemist +4),
+    ('10' , '2029' , @Alchemist +5),
+    ('10' , '2097' , @Alchemist +5),
+    ('20' , '2098' , @Alchemist +5),
+    ('18' , '2100' , @Alchemist +5),
+    ('5' , '2003' , @Alchemist +6),
+    ('3' , '2029' , @Alchemist +6),
+    ('5' , '2097' , @Alchemist +6),
+    ('10' , '2098' , @Alchemist +6),
+    ('10' , '2003' , @Alchemist +7),
+    ('6' , '2029' , @Alchemist +7),
+    ('10' , '2097' , @Alchemist +7),
+    ('17' , '2098' , @Alchemist +7),
+    ('20' , '2003' , @Alchemist +8),
+    ('12' , '2029' , @Alchemist +8),
+    ('15' , '2097' , @Alchemist +8),
+    ('24' , '2098' , @Alchemist +8),
+    ('2' , '2010' , @Alchemist +9),
+    ('1' , '2030' , @Alchemist +9),
+    ('1' , '2101' , @Alchemist +9),
+    ('2' , '2010' , @Alchemist +10),
+    ('1' , '2030' , @Alchemist +10),
+    ('1' , '2101' , @Alchemist +10),
+    ('5' , '2003' , @Alchemist +11),
+    ('4' , '2032' , @Alchemist +11),
+    ('5' , '2097' , @Alchemist +11),
+    ('5' , '2099' , @Alchemist +11),
+    ('10' , '2029' , @Alchemist +12),
+    ('10' , '2097' , @Alchemist +12),
+    ('30' , '2102' , @Alchemist +12),
+    ('30' , '1011' , @Alchemist +13),
+    ('20' , '2029' , @Alchemist +13),
+    ('20' , '2097' , @Alchemist +13),
+    ('3' , '2196' , @Alchemist +13),
+    ('20' , '1011' , @Alchemist +14),
+    ('20' , '2029' , @Alchemist +14),
+    ('20' , '2097' , @Alchemist +14),
+    ('3' , '2194' , @Alchemist +14),
+    ('40' , '1011' , @Alchemist +15),
+    ('20' , '2029' , @Alchemist +15),
+    ('20' , '2097' , @Alchemist +15),
+    ('3' , '2193' , @Alchemist +15),
+    ('3' , '2195' , @Alchemist +15),
+    ('5' , '2503' , @Alchemist +16),
+    ('5' , '2504' , @Alchemist +17),
+    ('5' , '5911' , @Alchemist +18);
