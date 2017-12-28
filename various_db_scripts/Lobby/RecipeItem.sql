@@ -87,6 +87,7 @@ VALUES
     ('30','2218',@RecipeId +11),
     ('20','2270',@RecipeId +11),
     ('10','2227',@RecipeId +11),
+    ('300','1012',@RecipeId +11),
 
     /* 
     * Craft & Resis 
