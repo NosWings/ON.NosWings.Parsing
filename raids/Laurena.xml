@@ -19,7 +19,6 @@
     </Globals>
     <InstanceEvents>
         <CreateMap Map="0" VNum="2514">
-            <OnMoveOnMap>
                 <SetMonsterLockers Value="1" />
                 <SetButtonLockers Value="0" />
                 <RefreshRaidGoals/>
@@ -27,7 +26,6 @@
 					<SendMessage Value="Attention ! Les renforts ennemis sont arrivés !" Type="0"/>
 					<SummonMonster VNum="2327" PositionX="50" PositionY="75"/>
 				</Wave>
-            </OnMoveOnMap>
             <SummonMonster VNum="2326" PositionX="53" PositionY="59" IsBoss="True">
 				<OnDeath>
                     <RemoveMonsterLocker/>

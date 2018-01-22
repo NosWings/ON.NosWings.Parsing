@@ -507,11 +507,9 @@
          <SpawnPortal IdOnMap="0" PositionX="171" PositionY="31" Type="1" ToMap="2" ToX="64" ToY="28" />
       </CreateMap>
       <CreateMap Map="2" VNum="2593">
-	   <OnMoveOnMap>
         <SetMonsterLockers Value="1" />
         <SetButtonLockers Value="0" />
         <RefreshRaidGoals/>
-      </OnMoveOnMap>
          <SummonMonster VNum="1028" PositionX="63" PositionY="59" IsTarget="true" IsHostile="true" IsBoss="true" Move="true">
             <OnDeath>
                <RemoveMonsterLocker />
@@ -562,7 +560,6 @@
          </SummonMonster>
          <SummonMonster VNum="1361" PositionX="59" PositionY="62" IsTarget="false" IsHostile="true" IsBoss="false" Move="true" />
          <SummonMonster VNum="1360" PositionX="69" PositionY="63" IsTarget="false" IsHostile="true" IsBoss="false" Move="true" />
-			<OnMoveOnMap>
              <Wave Offset="1" Delay="30">
                <SendMessage Value="The enemies are getting reinforcements!" Type="0" />
                <SummonMonster VNum="1352" PositionX="76" PositionY="39" IsTarget="false" IsHostile="true" IsBoss="false" Move="true" >
@@ -797,7 +794,6 @@
 			   </SummonMonster>
 
 			</Wave>
-          </OnMoveOnMap>
       </CreateMap>
    </InstanceEvents>
 </Definition>

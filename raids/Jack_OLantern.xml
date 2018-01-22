@@ -12,16 +12,14 @@
             <Item VNum="1916" Amount="1"/>
         </RequieredItems>
         <GiftItems>
-            <Item Amount="1" VNum="302" Design="18" IsRandomRare="True"/>
+            <Item Amount="1" VNum="302" Design="10" IsRandomRare="True"/>
         </GiftItems>
     </Globals>
     <InstanceEvents>
         <CreateMap Map="0" VNum="2583">
-            <OnMoveOnMap>
                 <SetMonsterLockers Value="1" />
                 <SetButtonLockers Value="0" />
                 <RefreshRaidGoals/>
-            </OnMoveOnMap>
             <SummonMonster VNum="1381" PositionX="57" PositionY="54" IsBoss="True">
                 <OnDeath>
                     <RemoveMonsterLocker/>
@@ -39,7 +37,6 @@
                     <ThrowItem VNum="1046" PackAmount="30" MinAmount="10000" MaxAmount="19000"/>
                 </OnDeath>
             </SummonMonster>
-            <OnMoveOnMap>
                 <Wave Offset="1" Delay="30">
                     <SendMessage Value="Les renforts ennemis sont arrivés !" Type="0"/>
                     <SummonMonster VNum="1382" PositionX="57" PositionY="60">
@@ -177,7 +174,6 @@
                     <SummonMonster VNum="1382" PositionX="67" PositionY="47">
                     </SummonMonster>
                 </Wave>
-            </OnMoveOnMap>
         </CreateMap>
     </InstanceEvents>
 </Definition>

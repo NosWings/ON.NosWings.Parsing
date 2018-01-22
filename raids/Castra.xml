@@ -529,22 +529,16 @@
             <SpawnPortal IdOnMap="0" PositionX="170" PositionY="14" Type="1" ToMap="1" ToX="22" ToY="58" />
         </CreateMap>
         <CreateMap Map="1" VNum="2502" >
-            <OnMoveOnMap>
-                <SetMonsterLockers Value="1" />
-                <SetButtonLockers Value="0" />
-                <SummonMonster VNum="285" PositionX="21" PositionY="14" IsBoss="True">
-                    <OnDeath>
-                        <RemoveMonsterLocker/>
-                        <RefreshRaidGoals/>
-                        <End Type="1"/>
-                        <ThrowItem VNum="1046" PackAmount="30" MinAmount="20000" MaxAmount="20001"/>
-                    </OnDeath>
-                </SummonMonster>
-            </OnMoveOnMap>
-            <OnMoveOnMap>
-                <Wave Offset="1" Delay="30">
-                </Wave>
-            </OnMoveOnMap>
+            <SetMonsterLockers Value="1" />
+            <SetButtonLockers Value="0" />
+            <SummonMonster VNum="285" PositionX="21" PositionY="14" IsBoss="True">
+                <OnDeath>
+                    <RemoveMonsterLocker/>
+                    <RefreshRaidGoals/>
+                    <End Type="1"/>
+                    <ThrowItem VNum="1046" PackAmount="30" MinAmount="20000" MaxAmount="20001"/>
+                </OnDeath>
+            </SummonMonster>
         </CreateMap>
     </InstanceEvents>
 </Definition>

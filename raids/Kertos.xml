@@ -145,20 +145,11 @@
 		  <ThrowItem VNum="2349" />
         </OnDeath>
       </SummonMonster>
-      <SummonMonster VNum="2018" PositionX="12" PositionY="15" IsTarget="false" IsHostile="true" Move="true" />
-      <SummonMonster VNum="2018" PositionX="23" PositionY="17" IsTarget="false" IsHostile="true" Move="true" />
-      <SummonMonster VNum="2018" PositionX="24" PositionY="37" IsTarget="false" IsHostile="true" Move="true" />
-      <SummonMonster VNum="2018" PositionX="17" PositionY="8" IsTarget="false" IsHostile="true" Move="true" />
-      <SummonMonster VNum="2018" PositionX="19" PositionY="16" IsTarget="false" IsHostile="true" Move="true" />
-      <SummonMonster VNum="2018" PositionX="14" PositionY="16" IsTarget="false" IsHostile="true" Move="true" />
-      <SummonMonster VNum="2018" PositionX="15" PositionY="32" IsTarget="false" IsHostile="true" Move="true" />
       <SummonMonster VNum="1915" PositionX="32" PositionY="16" IsTarget="false" IsHostile="true" Move="true" />
       <SummonMonster VNum="1915" PositionX="20" PositionY="23" IsTarget="false" IsHostile="true" Move="true" />
-      <OnMoveMap>
         <SetMonsterLockers Value="1" />
         <SetButtonLockers Value="0" />
         <RefreshRaidGoals />
-      </OnMoveMap>
     </CreateMap>
   </InstanceEvents>
 </Definition>

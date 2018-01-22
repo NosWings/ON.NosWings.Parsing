@@ -364,11 +364,9 @@
       <SpawnPortal IdOnMap="0" PositionX="154" PositionY="11" Type="1" ToMap="1" ToX="26" ToY="40"/>
     </CreateMap>
     <CreateMap Map="1" VNum="2512">
-      <OnMoveOnMap>
         <SetMonsterLockers Value="1" />
         <SetButtonLockers Value="0" />
         <RefreshRaidGoals/>
-      </OnMoveOnMap>
       <SummonMonster VNum="282" PositionX="26" PositionY="28" IsBoss="True">
         <OnDeath>
           <RemoveMonsterLocker/>
@@ -386,7 +384,6 @@
           <ThrowItem VNum="1046" PackAmount="30" MinAmount="1000" MaxAmount="2000"/>
         </OnDeath>
       </SummonMonster>
-      <OnMoveOnMap>
         <Wave Offset="1" Delay="30">
           <SendMessage Value="Les renforts ennemis sont arrivés !" Type="0"/>
           <SummonMonster VNum="167" PositionX="11" PositionY="12">
@@ -597,7 +594,6 @@
 
           </SummonMonster>
         </Wave>
-      </OnMoveOnMap>
     </CreateMap>
   </InstanceEvents>
 </Definition>

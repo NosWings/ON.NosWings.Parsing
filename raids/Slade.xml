@@ -639,11 +639,9 @@
             <SpawnPortal IdOnMap="0" PositionX="26" PositionY="27" Type="1" ToMap="1" ToX="26" ToY="40"/>
         </CreateMap>
         <CreateMap Map="1" VNum="2542">
-            <OnMoveOnMap>
                 <SetMonsterLockers Value="1" />
                 <SetButtonLockers Value="0" />
                 <RefreshRaidGoals/>
-            </OnMoveOnMap>
             <SummonMonster VNum="286" PositionX="38" PositionY="28" IsBoss="True">
                 <OnDeath>
                     <RemoveMonsterLocker/>

@@ -1052,11 +1052,9 @@
 	  </SpawnButton>	  
   </CreateMap>
   <CreateMap Map="1" VNum="2522">
-  <OnMoveOnMap>
         <SetMonsterLockers Value="7" />
         <SetButtonLockers Value="0" />
         <RefreshRaidGoals/>
-      </OnMoveOnMap>
 	  <SummonMonster VNum="291" PositionX="16" PositionY="20" IsTarget="True">
         <OnDeath>
           <RemoveMonsterLocker/>
@@ -1121,7 +1119,6 @@
         </OnDeath>
 	</SummonMonster>
 	</OnLockerOpen>
-   <OnMoveOnMap>
 	  <Wave Offset="1" Delay="30">
 		<SendMessage Value="Attention ! Les renforts ennemis sont arrivés !" Type="0"/>
 		  <SummonMonster VNum="290" PositionX="42" PositionY="38"/>
@@ -1143,7 +1140,6 @@
 		  <SummonMonster VNum="290" PositionX="36" PositionY="46"/>
 		  <SummonMonster VNum="290" PositionX="40" PositionY="42"/>
 	  </Wave>
-	 </OnMoveOnMap>
   </CreateMap>
   </InstanceEvents>
   </Definition>
